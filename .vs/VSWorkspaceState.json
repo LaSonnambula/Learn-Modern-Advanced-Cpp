@@ -1,0 +1,13 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\F:\\Learn-Modern-Advanced-Cpp\\CMakeLists.txt\\local_variables_value_cc.exe",
+  "PreviewInSolutionExplorer": false
+}

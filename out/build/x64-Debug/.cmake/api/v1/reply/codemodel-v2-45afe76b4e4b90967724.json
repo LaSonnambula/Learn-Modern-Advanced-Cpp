@@ -1,0 +1,5352 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123,
+						124,
+						125,
+						126,
+						127,
+						128,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
+						135,
+						136,
+						137,
+						138,
+						139,
+						140,
+						141,
+						142,
+						143,
+						144,
+						145,
+						146,
+						147,
+						148,
+						149,
+						150,
+						151,
+						152,
+						153,
+						154,
+						155,
+						156,
+						157,
+						158,
+						159,
+						160,
+						161,
+						162,
+						163,
+						164,
+						165,
+						166,
+						167,
+						168,
+						169,
+						170,
+						171,
+						172,
+						173,
+						174,
+						175,
+						176,
+						177,
+						178,
+						179,
+						180,
+						181,
+						182,
+						183,
+						184,
+						185,
+						186,
+						187,
+						188,
+						189,
+						190,
+						191,
+						192,
+						193,
+						194,
+						195,
+						196,
+						197,
+						198,
+						199,
+						200,
+						201,
+						202,
+						203,
+						204,
+						205,
+						206,
+						207,
+						208,
+						209,
+						210,
+						211,
+						212,
+						213,
+						214,
+						215,
+						216,
+						217,
+						218,
+						219,
+						220,
+						221,
+						222,
+						223,
+						224,
+						225,
+						226,
+						227,
+						228,
+						229,
+						230,
+						231,
+						232,
+						233,
+						234,
+						235,
+						236,
+						237,
+						238,
+						239,
+						240,
+						241,
+						242,
+						243,
+						244,
+						245,
+						246,
+						247,
+						248,
+						249,
+						250,
+						251,
+						252,
+						253,
+						254,
+						255,
+						256,
+						257,
+						258,
+						259,
+						260,
+						261,
+						262,
+						263,
+						264,
+						265,
+						266,
+						267,
+						268,
+						269,
+						270,
+						271,
+						272,
+						273,
+						274,
+						275,
+						276,
+						277,
+						278,
+						279,
+						280,
+						281,
+						282,
+						283,
+						284,
+						285,
+						286,
+						287,
+						288,
+						289,
+						290,
+						291,
+						292,
+						293,
+						294,
+						295,
+						296,
+						297,
+						298,
+						299,
+						300,
+						301,
+						302,
+						303,
+						304,
+						305,
+						306,
+						307,
+						308,
+						309,
+						310,
+						311,
+						312,
+						313,
+						314,
+						315,
+						316,
+						317,
+						318,
+						319,
+						320,
+						321,
+						322,
+						323,
+						324,
+						325,
+						326,
+						327,
+						328,
+						329,
+						330,
+						331,
+						332,
+						333,
+						334,
+						335,
+						336,
+						337,
+						338,
+						339,
+						340,
+						341,
+						342,
+						343,
+						344,
+						345,
+						346,
+						347,
+						348,
+						349,
+						350,
+						351,
+						352,
+						353,
+						354,
+						355,
+						356,
+						357,
+						358,
+						359,
+						360,
+						361,
+						362,
+						363,
+						364,
+						365,
+						366,
+						367,
+						368,
+						369,
+						370,
+						371,
+						372,
+						373,
+						374,
+						375,
+						376,
+						377,
+						378,
+						379,
+						380,
+						381,
+						382,
+						383,
+						384,
+						385,
+						386,
+						387,
+						388,
+						389,
+						390,
+						391,
+						392,
+						393,
+						394,
+						395,
+						396,
+						397,
+						398,
+						399,
+						400,
+						401,
+						402,
+						403,
+						404,
+						405,
+						406,
+						407,
+						408,
+						409,
+						410,
+						411,
+						412,
+						413,
+						414,
+						415,
+						416,
+						417,
+						418,
+						419,
+						420,
+						421,
+						422,
+						423,
+						424,
+						425,
+						426,
+						427,
+						428,
+						429,
+						430,
+						431,
+						432,
+						433,
+						434,
+						435,
+						436,
+						437,
+						438,
+						439,
+						440,
+						441,
+						442,
+						443,
+						444,
+						445,
+						446,
+						447,
+						448,
+						449,
+						450,
+						451,
+						452,
+						453,
+						454,
+						455,
+						456,
+						457,
+						458,
+						459,
+						460,
+						461,
+						462,
+						463,
+						464,
+						465,
+						466,
+						467,
+						468,
+						469,
+						470,
+						471,
+						472,
+						473,
+						474,
+						475,
+						476,
+						477,
+						478,
+						479,
+						480,
+						481,
+						482,
+						483,
+						484,
+						485,
+						486,
+						487,
+						488,
+						489,
+						490,
+						491,
+						492,
+						493,
+						494,
+						495,
+						496,
+						497,
+						498,
+						499,
+						500,
+						501,
+						502,
+						503,
+						504,
+						505,
+						506,
+						507,
+						508,
+						509,
+						510,
+						511,
+						512,
+						513,
+						514,
+						515,
+						516,
+						517,
+						518,
+						519,
+						520,
+						521,
+						522,
+						523,
+						524,
+						525,
+						526,
+						527,
+						528,
+						529,
+						530,
+						531,
+						532,
+						533,
+						534,
+						535,
+						536,
+						537,
+						538,
+						539,
+						540,
+						541,
+						542,
+						543,
+						544,
+						545,
+						546,
+						547,
+						548,
+						549,
+						550,
+						551,
+						552,
+						553,
+						554,
+						555,
+						556,
+						557,
+						558,
+						559,
+						560,
+						561,
+						562,
+						563,
+						564,
+						565,
+						566,
+						567,
+						568,
+						569,
+						570,
+						571,
+						572,
+						573,
+						574,
+						575,
+						576,
+						577,
+						578,
+						579,
+						580,
+						581,
+						582,
+						583,
+						584,
+						585,
+						586,
+						587,
+						588
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LearnModernCpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123,
+						124,
+						125,
+						126,
+						127,
+						128,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
+						135,
+						136,
+						137,
+						138,
+						139,
+						140,
+						141,
+						142,
+						143,
+						144,
+						145,
+						146,
+						147,
+						148,
+						149,
+						150,
+						151,
+						152,
+						153,
+						154,
+						155,
+						156,
+						157,
+						158,
+						159,
+						160,
+						161,
+						162,
+						163,
+						164,
+						165,
+						166,
+						167,
+						168,
+						169,
+						170,
+						171,
+						172,
+						173,
+						174,
+						175,
+						176,
+						177,
+						178,
+						179,
+						180,
+						181,
+						182,
+						183,
+						184,
+						185,
+						186,
+						187,
+						188,
+						189,
+						190,
+						191,
+						192,
+						193,
+						194,
+						195,
+						196,
+						197,
+						198,
+						199,
+						200,
+						201,
+						202,
+						203,
+						204,
+						205,
+						206,
+						207,
+						208,
+						209,
+						210,
+						211,
+						212,
+						213,
+						214,
+						215,
+						216,
+						217,
+						218,
+						219,
+						220,
+						221,
+						222,
+						223,
+						224,
+						225,
+						226,
+						227,
+						228,
+						229,
+						230,
+						231,
+						232,
+						233,
+						234,
+						235,
+						236,
+						237,
+						238,
+						239,
+						240,
+						241,
+						242,
+						243,
+						244,
+						245,
+						246,
+						247,
+						248,
+						249,
+						250,
+						251,
+						252,
+						253,
+						254,
+						255,
+						256,
+						257,
+						258,
+						259,
+						260,
+						261,
+						262,
+						263,
+						264,
+						265,
+						266,
+						267,
+						268,
+						269,
+						270,
+						271,
+						272,
+						273,
+						274,
+						275,
+						276,
+						277,
+						278,
+						279,
+						280,
+						281,
+						282,
+						283,
+						284,
+						285,
+						286,
+						287,
+						288,
+						289,
+						290,
+						291,
+						292,
+						293,
+						294,
+						295,
+						296,
+						297,
+						298,
+						299,
+						300,
+						301,
+						302,
+						303,
+						304,
+						305,
+						306,
+						307,
+						308,
+						309,
+						310,
+						311,
+						312,
+						313,
+						314,
+						315,
+						316,
+						317,
+						318,
+						319,
+						320,
+						321,
+						322,
+						323,
+						324,
+						325,
+						326,
+						327,
+						328,
+						329,
+						330,
+						331,
+						332,
+						333,
+						334,
+						335,
+						336,
+						337,
+						338,
+						339,
+						340,
+						341,
+						342,
+						343,
+						344,
+						345,
+						346,
+						347,
+						348,
+						349,
+						350,
+						351,
+						352,
+						353,
+						354,
+						355,
+						356,
+						357,
+						358,
+						359,
+						360,
+						361,
+						362,
+						363,
+						364,
+						365,
+						366,
+						367,
+						368,
+						369,
+						370,
+						371,
+						372,
+						373,
+						374,
+						375,
+						376,
+						377,
+						378,
+						379,
+						380,
+						381,
+						382,
+						383,
+						384,
+						385,
+						386,
+						387,
+						388,
+						389,
+						390,
+						391,
+						392,
+						393,
+						394,
+						395,
+						396,
+						397,
+						398,
+						399,
+						400,
+						401,
+						402,
+						403,
+						404,
+						405,
+						406,
+						407,
+						408,
+						409,
+						410,
+						411,
+						412,
+						413,
+						414,
+						415,
+						416,
+						417,
+						418,
+						419,
+						420,
+						421,
+						422,
+						423,
+						424,
+						425,
+						426,
+						427,
+						428,
+						429,
+						430,
+						431,
+						432,
+						433,
+						434,
+						435,
+						436,
+						437,
+						438,
+						439,
+						440,
+						441,
+						442,
+						443,
+						444,
+						445,
+						446,
+						447,
+						448,
+						449,
+						450,
+						451,
+						452,
+						453,
+						454,
+						455,
+						456,
+						457,
+						458,
+						459,
+						460,
+						461,
+						462,
+						463,
+						464,
+						465,
+						466,
+						467,
+						468,
+						469,
+						470,
+						471,
+						472,
+						473,
+						474,
+						475,
+						476,
+						477,
+						478,
+						479,
+						480,
+						481,
+						482,
+						483,
+						484,
+						485,
+						486,
+						487,
+						488,
+						489,
+						490,
+						491,
+						492,
+						493,
+						494,
+						495,
+						496,
+						497,
+						498,
+						499,
+						500,
+						501,
+						502,
+						503,
+						504,
+						505,
+						506,
+						507,
+						508,
+						509,
+						510,
+						511,
+						512,
+						513,
+						514,
+						515,
+						516,
+						517,
+						518,
+						519,
+						520,
+						521,
+						522,
+						523,
+						524,
+						525,
+						526,
+						527,
+						528,
+						529,
+						530,
+						531,
+						532,
+						533,
+						534,
+						535,
+						536,
+						537,
+						538,
+						539,
+						540,
+						541,
+						542,
+						543,
+						544,
+						545,
+						546,
+						547,
+						548,
+						549,
+						550,
+						551,
+						552,
+						553,
+						554,
+						555,
+						556,
+						557,
+						558,
+						559,
+						560,
+						561,
+						562,
+						563,
+						564,
+						565,
+						566,
+						567,
+						568,
+						569,
+						570,
+						571,
+						572,
+						573,
+						574,
+						575,
+						576,
+						577,
+						578,
+						579,
+						580,
+						581,
+						582,
+						583,
+						584,
+						585,
+						586,
+						587,
+						588
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "adding_elements_strings_append_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adding_elements_strings_append_cc-Debug-7c3d23d49cf8c6cdd3be.json",
+					"name" : "adding_elements_strings_append_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "adding_elements_strings_insert1_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adding_elements_strings_insert1_cc-Debug-31d639ba96f27cd08c64.json",
+					"name" : "adding_elements_strings_insert1_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "adding_elements_strings_insert2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adding_elements_strings_insert2_cc-Debug-e17a6ccff314da5f3c6c.json",
+					"name" : "adding_elements_strings_insert2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "adding_elements_strings_insert_iterators2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adding_elements_strings_insert_iterators2_cc-Debug-721c30879e4ed15086a1.json",
+					"name" : "adding_elements_strings_insert_iterators2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "adding_elements_strings_insert_iterators_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adding_elements_strings_insert_iterators_cc-Debug-6ff0948882ae69766d06.json",
+					"name" : "adding_elements_strings_insert_iterators_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "addition_operators_complex_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-addition_operators_complex_cc-Debug-668b8b9877630531079c.json",
+					"name" : "addition_operators_complex_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_overview_find_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_overview_find_cc-Debug-c804b5af39bd03bb3b1b.json",
+					"name" : "algorithms_overview_find_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_with_if_versions_find_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_with_if_versions_find_if_cc-Debug-abc5344d1b4ae5926c93.json",
+					"name" : "algorithms_with_if_versions_find_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_with_if_versions_find_if_n_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_with_if_versions_find_if_n_cc-Debug-5de22db81b684cd3f034.json",
+					"name" : "algorithms_with_if_versions_find_if_n_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_with_if_versions_find_if_not_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_with_if_versions_find_if_not_cc-Debug-04a24d558d9135a94293.json",
+					"name" : "algorithms_with_if_versions_find_if_not_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_with_predicates_pred_function_ptr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_with_predicates_pred_function_ptr_cc-Debug-f3cfbc0420af79e7e626.json",
+					"name" : "algorithms_with_predicates_pred_function_ptr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_with_predicates_pred_functor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_with_predicates_pred_functor_cc-Debug-6206854963acea0af519.json",
+					"name" : "algorithms_with_predicates_pred_functor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithms_with_predicates_sort_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithms_with_predicates_sort_cc-Debug-06b51aa739b888695268.json",
+					"name" : "algorithms_with_predicates_sort_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "assignment_operator_overview_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assignment_operator_overview_string_cc-Debug-e73b86d79086af796299.json",
+					"name" : "assignment_operator_overview_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "associative_container_custom_types_book_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-associative_container_custom_types_book_cc-Debug-9898dbdc6ab37516b3fc.json",
+					"name" : "associative_container_custom_types_book_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "associative_container_custom_types_book_index_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-associative_container_custom_types_book_index_cc-Debug-5ec79f1dd6ed5f109424.json",
+					"name" : "associative_container_custom_types_book_index_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "attributes_cpp11_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-attributes_cpp11_cc-Debug-8a1f11869f7d33e45a23.json",
+					"name" : "attributes_cpp11_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "attributes_cpp14_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-attributes_cpp14_cc-Debug-6a9c5c684a9ef5d35020.json",
+					"name" : "attributes_cpp14_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "attributes_fallthrough_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-attributes_fallthrough_cc-Debug-a259c618a858ef952f59.json",
+					"name" : "attributes_fallthrough_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "attributes_maybe_used_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-attributes_maybe_used_cc-Debug-8df81f87d32bc782c34b.json",
+					"name" : "attributes_maybe_used_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "attributes_nodiscard_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-attributes_nodiscard_cc-Debug-f673d1cec5beecb8dfd0.json",
+					"name" : "attributes_nodiscard_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "attributes_nodiscard_struct_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-attributes_nodiscard_struct_cc-Debug-f1c711eaa85104e63ece.json",
+					"name" : "attributes_nodiscard_struct_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_keyword_auto_func_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_keyword_auto_func_cc-Debug-9c48e07c2737a939f661.json",
+					"name" : "auto_keyword_auto_func_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_keyword_auto_keyword_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_keyword_auto_keyword_cc-Debug-8e822eaccba5c970b0dc.json",
+					"name" : "auto_keyword_auto_keyword_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_keyword_qualifiers_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_keyword_qualifiers_cc-Debug-e33c94bf9f40a73ba236.json",
+					"name" : "auto_keyword_qualifiers_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "base_and_derived_classes_constructors_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-base_and_derived_classes_constructors_cc-Debug-abb9747e7ffbc1f1e159.json",
+					"name" : "base_and_derived_classes_constructors_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "base_and_derived_classes_fighter_aeroplane_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-base_and_derived_classes_fighter_aeroplane_cc-Debug-3669bbaf7aaeef5bcb7a.json",
+					"name" : "base_and_derived_classes_fighter_aeroplane_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "base_and_derived_classes_hierarchy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-base_and_derived_classes_hierarchy_cc-Debug-464e24e51a3f1de0f1c3.json",
+					"name" : "base_and_derived_classes_hierarchy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basic_string_ops_constructors_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basic_string_ops_constructors_cc-Debug-b5e61705b0e18e37f464.json",
+					"name" : "basic_string_ops_constructors_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basic_string_ops_substr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basic_string_ops_substr_cc-Debug-fa24fdfb5aaf56dfbec6.json",
+					"name" : "basic_string_ops_substr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binary_files_binary_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary_files_binary_cc-Debug-747b57b427a6582543b1.json",
+					"name" : "binary_files_binary_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binary_files_practical_bitmap_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary_files_practical_bitmap_cc-Debug-52c9fd564714e9782179.json",
+					"name" : "binary_files_practical_bitmap_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binary_files_practical_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary_files_practical_main_cc-Debug-792f10812c3fe35d034f.json",
+					"name" : "binary_files_practical_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bind_bind_algo_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bind_bind_algo_cc-Debug-87869081fcebc1cdcca3.json",
+					"name" : "bind_bind_algo_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bind_bind_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bind_bind_cc-Debug-d9a8122f44f3cb8a6c38.json",
+					"name" : "bind_bind_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bind_bound_lambda_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bind_bound_lambda_cc-Debug-3440d87200e7d5ada384.json",
+					"name" : "bind_bound_lambda_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bind_match_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bind_match_cc-Debug-f440801876991fe39aa2.json",
+					"name" : "bind_match_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bind_match_error_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bind_match_error_cc-Debug-3ab1316da9d982d5182a.json",
+					"name" : "bind_match_error_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bitsets_checks_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bitsets_checks_cc-Debug-901ca01556e606abbf8a.json",
+					"name" : "bitsets_checks_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bitsets_data_access_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bitsets_data_access_cc-Debug-fd8d43fa4e0ae64f57e0.json",
+					"name" : "bitsets_data_access_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bitsets_member_operations_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bitsets_member_operations_cc-Debug-1539105a653e4f9c7b70.json",
+					"name" : "bitsets_member_operations_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bitsets_operations_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bitsets_operations_cc-Debug-ed63a4f4caf45e2c2e16.json",
+					"name" : "bitsets_operations_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "callable_objects_function_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-callable_objects_function_cc-Debug-1ac937a5a96ca6d42aab.json",
+					"name" : "callable_objects_function_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "casting_c_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-casting_c_cc-Debug-23b9316e55d33d19ad02.json",
+					"name" : "casting_c_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "casting_const_cast_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-casting_const_cast_cc-Debug-23abfa913812dfa6d915.json",
+					"name" : "casting_const_cast_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "casting_static_cast_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-casting_static_cast_cc-Debug-9b34d0440c63d3d73a97.json",
+					"name" : "casting_static_cast_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "catch_all_handlers_catch_all_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch_all_handlers_catch_all_cc-Debug-2c86d30c7afdd4c1bc63.json",
+					"name" : "catch_all_handlers_catch_all_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "character_fns_equal_strings_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-character_fns_equal_strings_cc-Debug-36ffbdda91de6fbb20b6.json",
+					"name" : "character_fns_equal_strings_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "character_fns_isxyz_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-character_fns_isxyz_cc-Debug-8ed93297507558ae2077.json",
+					"name" : "character_fns_isxyz_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "character_fns_toupper_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-character_fns_toupper_cc-Debug-55871f75fe1a93b7229a.json",
+					"name" : "character_fns_toupper_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_clocks_and_time_points_sleep_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_clocks_and_time_points_sleep_cc-Debug-761cb61c0f0ddf5b566d.json",
+					"name" : "chrono_clocks_and_time_points_sleep_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_clocks_and_time_points_timer_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_clocks_and_time_points_timer_cc-Debug-30c0a56bdb5fc8059d35.json",
+					"name" : "chrono_clocks_and_time_points_timer_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_duration_types_constructor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_duration_types_constructor_cc-Debug-9094190ab80f6cb3beea.json",
+					"name" : "chrono_duration_types_constructor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_duration_types_conversion_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_duration_types_conversion_cc-Debug-dfe9c547cec1d24d2bce.json",
+					"name" : "chrono_duration_types_conversion_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_duration_types_duration_cast_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_duration_types_duration_cast_cc-Debug-c41d286c75e0d6951e96.json",
+					"name" : "chrono_duration_types_duration_cast_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_duration_types_operations_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_duration_types_operations_cc-Debug-f3b5cf860ef9ef882ac4.json",
+					"name" : "chrono_duration_types_operations_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "classes_and_templates_different_parameter_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-classes_and_templates_different_parameter_cc-Debug-7767f932136eed2327e2.json",
+					"name" : "classes_and_templates_different_parameter_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "classes_and_templates_member_template_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-classes_and_templates_member_template_cc-Debug-37a643bac17580dbe14c.json",
+					"name" : "classes_and_templates_member_template_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compile_time_programming_overview_macro_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compile_time_programming_overview_macro_cc-Debug-d0004a19cfc0b4098af1.json",
+					"name" : "compile_time_programming_overview_macro_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compile_time_programming_overview_traits_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compile_time_programming_overview_traits_cc-Debug-f2a3a56a360c5f64e891.json",
+					"name" : "compile_time_programming_overview_traits_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constant_expressions_constant_expression_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constant_expressions_constant_expression_cc-Debug-9e27605a2bf19b0542e1.json",
+					"name" : "constant_expressions_constant_expression_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constant_expressions_constexpr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constant_expressions_constexpr_cc-Debug-c3591a861d3f06195cb9.json",
+					"name" : "constant_expressions_constexpr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_functions_constexpr_fn_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_functions_constexpr_fn_cc-Debug-adff38e44365afa20488.json",
+					"name" : "constexpr_functions_constexpr_fn_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_constexpr_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_constexpr_if_cc-Debug-1502aab6ea103b58e6ef.json",
+					"name" : "constexpr_if_constexpr_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_examples_fibonacci_constexpr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_examples_fibonacci_constexpr_cc-Debug-d0c10a24a9fff25ba4d8.json",
+					"name" : "constexpr_if_examples_fibonacci_constexpr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_examples_fibonacci_specialization_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_examples_fibonacci_specialization_cc-Debug-d9cbf629f695bd346a0f.json",
+					"name" : "constexpr_if_examples_fibonacci_specialization_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_examples_parameter_pack_constexpr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_examples_parameter_pack_constexpr_cc-Debug-1ef56891930a9229c5d5.json",
+					"name" : "constexpr_if_examples_parameter_pack_constexpr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_examples_parameter_pack_specialization_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_examples_parameter_pack_specialization_cc-Debug-2626edb0cfa02936fd4e.json",
+					"name" : "constexpr_if_examples_parameter_pack_specialization_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_if_cc-Debug-9c0ffe447219b408048a.json",
+					"name" : "constexpr_if_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_sfinae_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_sfinae_cc-Debug-7cee4028cccd8982e932.json",
+					"name" : "constexpr_if_sfinae_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constexpr_if_specialization_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constexpr_if_specialization_cc-Debug-f380e0fc6dcb19d526cd.json",
+					"name" : "constexpr_if_specialization_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructors_in_modern_cpp_constructors_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructors_in_modern_cpp_constructors_cc-Debug-293d7afe12e5bcc5f102.json",
+					"name" : "constructors_in_modern_cpp_constructors_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructors_in_modern_cpp_default_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructors_in_modern_cpp_default_cc-Debug-96b5952ba9b9290d6e03.json",
+					"name" : "constructors_in_modern_cpp_default_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructors_in_modern_cpp_delegate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructors_in_modern_cpp_delegate_cc-Debug-60177fae648693d3ee91.json",
+					"name" : "constructors_in_modern_cpp_delegate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructors_in_modern_cpp_init_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructors_in_modern_cpp_init_cc-Debug-41a14444a5f0309e3f37.json",
+					"name" : "constructors_in_modern_cpp_init_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructors_in_modern_cpp_inplace_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructors_in_modern_cpp_inplace_cc-Debug-67fb3683a839d6d35cd6.json",
+					"name" : "constructors_in_modern_cpp_inplace_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conversion_operators_explicit_bool_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conversion_operators_explicit_bool_cc-Debug-f3480a35e9f503b175da.json",
+					"name" : "conversion_operators_explicit_bool_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conversion_operators_explicit_constructor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conversion_operators_explicit_constructor_cc-Debug-ecda8c510429d90995fa.json",
+					"name" : "conversion_operators_explicit_constructor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conversion_operators_explicit_conversion_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conversion_operators_explicit_conversion_cc-Debug-d2683c2f4eb3a149ae2e.json",
+					"name" : "conversion_operators_explicit_conversion_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conversion_operators_implicit2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conversion_operators_implicit2_cc-Debug-ef8d9561917c8c130373.json",
+					"name" : "conversion_operators_implicit2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conversion_operators_implicit_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conversion_operators_implicit_cc-Debug-a8093169142bd37e62f1.json",
+					"name" : "conversion_operators_implicit_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conversion_operators_surprise_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conversion_operators_surprise_cc-Debug-b70bc05ae45c41d424e5.json",
+					"name" : "conversion_operators_surprise_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "converting_between_strings_and_numbers_stod_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-converting_between_strings_and_numbers_stod_cc-Debug-3ba6642a4cffd24e41f4.json",
+					"name" : "converting_between_strings_and_numbers_stod_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "converting_between_strings_and_numbers_stoi_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-converting_between_strings_and_numbers_stoi_cc-Debug-3b2f51e49c0195270eec.json",
+					"name" : "converting_between_strings_and_numbers_stoi_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "converting_between_strings_and_numbers_to_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-converting_between_strings_and_numbers_to_string_cc-Debug-817585f02a59d9b1a5b1.json",
+					"name" : "converting_between_strings_and_numbers_to_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conways_game_of_life_practical_ansi_escapes_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conways_game_of_life_practical_ansi_escapes_cc-Debug-a30148bc333619e660eb.json",
+					"name" : "conways_game_of_life_practical_ansi_escapes_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conways_game_of_life_practical_cell_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conways_game_of_life_practical_cell_cc-Debug-67d0a2e8d463ba3de869.json",
+					"name" : "conways_game_of_life_practical_cell_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conways_game_of_life_practical_grid_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conways_game_of_life_practical_grid_cc-Debug-3f39dc682aba33561269.json",
+					"name" : "conways_game_of_life_practical_grid_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conways_game_of_life_practical_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conways_game_of_life_practical_main_cc-Debug-551ad4ea4cdf416e868c.json",
+					"name" : "conways_game_of_life_practical_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_and_swap_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_and_swap_string_cc-Debug-32465ef76310ae182695.json",
+					"name" : "copy_and_swap_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_constructor_overview_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_constructor_overview_string_cc-Debug-68f9829ed140cffa79a5.json",
+					"name" : "copy_constructor_overview_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_elision_elide_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_elision_elide_cc-Debug-0c3d3bc41ed892c5cc43.json",
+					"name" : "copy_elision_elide_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_elision_nvro_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_elision_nvro_cc-Debug-65173c23704469c1200e.json",
+					"name" : "copy_elision_nvro_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_elision_temp_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_elision_temp_cc-Debug-32e28b87d738bdb40af7.json",
+					"name" : "copy_elision_temp_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copying_algorithms_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copying_algorithms_copy_cc-Debug-86880b24c979b30ac9e0.json",
+					"name" : "copying_algorithms_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copying_algorithms_copy_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copying_algorithms_copy_if_cc-Debug-8d7c3bd48d14175edfb9.json",
+					"name" : "copying_algorithms_copy_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copying_algorithms_copy_n_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copying_algorithms_copy_n_cc-Debug-2fa7cec14ac73a8c51e7.json",
+					"name" : "copying_algorithms_copy_n_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_exception_grade_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_exception_grade_cc-Debug-501b0d985e6458d8e9d5.json",
+					"name" : "custom_exception_grade_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "declaration_initialization_alias_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-declaration_initialization_alias_cc-Debug-cb27c1bb8a85f31bbb1d.json",
+					"name" : "declaration_initialization_alias_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "declaration_initialization_initialization_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-declaration_initialization_initialization_cc-Debug-b224f28299ccd46a32c7.json",
+					"name" : "declaration_initialization_initialization_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "declaration_initialization_initialization_contd_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-declaration_initialization_initialization_contd_cc-Debug-2005581b607510c71185.json",
+					"name" : "declaration_initialization_initialization_contd_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "declaration_initialization_nullptr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-declaration_initialization_nullptr_cc-Debug-d26e0565ce338f57e117.json",
+					"name" : "declaration_initialization_nullptr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "declaration_initialization_vector_vector_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-declaration_initialization_vector_vector_cc-Debug-22b53e309045d475b165.json",
+					"name" : "declaration_initialization_vector_vector_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "decltype_keyword_decltype_auto_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decltype_keyword_decltype_auto_cc-Debug-db3f453f3ac47060f6e8.json",
+					"name" : "decltype_keyword_decltype_auto_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "decltype_keyword_lvalue_rvalue_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decltype_keyword_lvalue_rvalue_cc-Debug-2dce8e19c30a313bc36c.json",
+					"name" : "decltype_keyword_lvalue_rvalue_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "decltype_keyword_qualifiers_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decltype_keyword_qualifiers_cc-Debug-382cdba92d9430811c87.json",
+					"name" : "decltype_keyword_qualifiers_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "decltype_keyword_use_cases_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decltype_keyword_use_cases_cc-Debug-951bd1e574d2e0ba2c44.json",
+					"name" : "decltype_keyword_use_cases_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "default_and_delete_keywords_delete_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-default_and_delete_keywords_delete_cc-Debug-a81b4c458569e705bb02.json",
+					"name" : "default_and_delete_keywords_delete_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "default_and_delete_keywords_uncopyable_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-default_and_delete_keywords_uncopyable_cc-Debug-242b2e046b7de0470bcc.json",
+					"name" : "default_and_delete_keywords_uncopyable_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "deque_deque_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deque_deque_cc-Debug-3790db76cbb598da42bb.json",
+					"name" : "deque_deque_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "emplace_emplace_back_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emplace_emplace_back_cc-Debug-8f48603d8ae3e798f318.json",
+					"name" : "emplace_emplace_back_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "emplace_emplace_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emplace_emplace_cc-Debug-86c10ce37e81c90919c7.json",
+					"name" : "emplace_emplace_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "emplace_try_emplace_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emplace_try_emplace_cc-Debug-d9c6ca79925aa691b1a7.json",
+					"name" : "emplace_try_emplace_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "equality_and_inequality_operators_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-equality_and_inequality_operators_main_cc-Debug-cd51132f3c103b1d5829.json",
+					"name" : "equality_and_inequality_operators_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "equality_and_inequality_operators_student_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-equality_and_inequality_operators_student_cc-Debug-4da6c3c830b14dac10cc.json",
+					"name" : "equality_and_inequality_operators_student_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exception_mechanism_rethrow_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exception_mechanism_rethrow_cc-Debug-203e764234bb27dc3dad.json",
+					"name" : "exception_mechanism_rethrow_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exception_safe_class_string2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exception_safe_class_string2_cc-Debug-b50ac73cc48faa47b61c.json",
+					"name" : "exception_safe_class_string2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exception_safe_class_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exception_safe_class_string_cc-Debug-63659e03ae5ebc3b1651.json",
+					"name" : "exception_safe_class_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_and_special_members_throwing_constructor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_and_special_members_throwing_constructor_cc-Debug-814ebde857d8293b18cc.json",
+					"name" : "exceptions_and_special_members_throwing_constructor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_introduction_handled_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_introduction_handled_cc-Debug-5159f18c71e2e0e03d80.json",
+					"name" : "exceptions_introduction_handled_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_introduction_unhandled_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_introduction_unhandled_cc-Debug-b21c41e8c71e3f0d1a9a.json",
+					"name" : "exceptions_introduction_unhandled_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_workshop_at_vector_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_workshop_at_vector_cc-Debug-b9375cf3ebd950d7e3b3.json",
+					"name" : "exceptions_workshop_at_vector_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_workshop_error_codes_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_workshop_error_codes_cc-Debug-f44cefea37367398d844.json",
+					"name" : "exceptions_workshop_error_codes_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptions_workshop_grade_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptions_workshop_grade_cc-Debug-a35440dce400820b08e4.json",
+					"name" : "exceptions_workshop_grade_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_extern_int1_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_extern_int1_cc-Debug-b3ed119a32acf4764d99.json",
+					"name" : "extern_templates_extern_int1_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_extern_int2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_extern_int2_cc-Debug-76d6070570c780c2c8fa.json",
+					"name" : "extern_templates_extern_int2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_extern_int_impls_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_extern_int_impls_cc-Debug-f1ef96d7efeb5c9211d7.json",
+					"name" : "extern_templates_extern_int_impls_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_extern_template1_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_extern_template1_cc-Debug-b89cd110ed1fbdacd6c8.json",
+					"name" : "extern_templates_extern_template1_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_extern_template2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_extern_template2_cc-Debug-98588f0c4a20fc75cc97.json",
+					"name" : "extern_templates_extern_template2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_extern_template_impls_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_extern_template_impls_cc-Debug-f7689648b9fee5a779e1.json",
+					"name" : "extern_templates_extern_template_impls_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_manual1_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_manual1_cc-Debug-649c5bb77cab10d38151.json",
+					"name" : "extern_templates_manual1_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extern_templates_manual2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extern_templates_manual2_cc-Debug-1d66ef2f1296ad3c736d.json",
+					"name" : "extern_templates_manual2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_modes_append_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_modes_append_cc-Debug-373e80f8a58b65ae6565.json",
+					"name" : "file_modes_append_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_streams_read_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_streams_read_cc-Debug-59305360493eec56f7a0.json",
+					"name" : "file_streams_read_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_streams_read_getline_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_streams_read_getline_cc-Debug-78a97cb05afc7b36ba1f.json",
+					"name" : "file_streams_read_getline_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_streams_write_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_streams_write_cc-Debug-e7e2e30e1d9fab6a4dea.json",
+					"name" : "file_streams_write_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "floating_point_output_formats_default_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-floating_point_output_formats_default_cc-Debug-cf3f74d6b7d1f20c64db.json",
+					"name" : "floating_point_output_formats_default_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "floating_point_output_formats_fixed_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-floating_point_output_formats_fixed_cc-Debug-854817bfefc653587f15.json",
+					"name" : "floating_point_output_formats_fixed_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "floating_point_output_formats_precision_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-floating_point_output_formats_precision_cc-Debug-99af99c21b2819a81862.json",
+					"name" : "floating_point_output_formats_precision_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "floating_point_output_formats_scientific_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-floating_point_output_formats_scientific_cc-Debug-8e6bf65c1ed438f835f2.json",
+					"name" : "floating_point_output_formats_scientific_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "for_each_algorithm_for_each_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-for_each_algorithm_for_each_cc-Debug-08642c910057e0bd8baf.json",
+					"name" : "for_each_algorithm_for_each_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "for_each_algorithm_for_each_ref_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-for_each_algorithm_for_each_ref_cc-Debug-29d62d40970606f5500c.json",
+					"name" : "for_each_algorithm_for_each_ref_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "forward_list_forward_list_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-forward_list_forward_list_cc-Debug-5447f96919ca4b5979f4.json",
+					"name" : "forward_list_forward_list_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "forwarding_references_nested_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-forwarding_references_nested_cc-Debug-935d00a48601cbdf60be.json",
+					"name" : "forwarding_references_nested_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "forwarding_references_template_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-forwarding_references_template_cc-Debug-32ccfe8112918029bec0.json",
+					"name" : "forwarding_references_template_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend_keyword_delegate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend_keyword_delegate_cc-Debug-f67a723e3c1095d214dd.json",
+					"name" : "friend_keyword_delegate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend_keyword_friend_class_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend_keyword_friend_class_cc-Debug-61377b5ee85d6a1b5a74.json",
+					"name" : "friend_keyword_friend_class_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "friend_keyword_friend_function_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-friend_keyword_friend_function_cc-Debug-3487a196d7de68c01a9c.json",
+					"name" : "friend_keyword_friend_function_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_arguments_and_move_semantics_const_lvalue_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_arguments_and_move_semantics_const_lvalue_cc-Debug-9830b967be64f20417d1.json",
+					"name" : "function_arguments_and_move_semantics_const_lvalue_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_arguments_and_move_semantics_rvalue_ref_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_arguments_and_move_semantics_rvalue_ref_cc-Debug-cb177104e5de4fa5d598.json",
+					"name" : "function_arguments_and_move_semantics_rvalue_ref_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_arguments_and_move_semantics_value_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_arguments_and_move_semantics_value_cc-Debug-e80dfd48a4ea87bc1a5f.json",
+					"name" : "function_arguments_and_move_semantics_value_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_arguments_and_move_semantics_value_then_move_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_arguments_and_move_semantics_value_then_move_cc-Debug-cba786dc8fb05a5e6c21.json",
+					"name" : "function_arguments_and_move_semantics_value_then_move_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_call_operator_functor2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_call_operator_functor2_cc-Debug-d4bdba52d0cf0a6e89b9.json",
+					"name" : "function_call_operator_functor2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_call_operator_functor3_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_call_operator_functor3_cc-Debug-33cf5c6a3595326456c1.json",
+					"name" : "function_call_operator_functor3_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_call_operator_functor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_call_operator_functor_cc-Debug-332e25a51052a30efe68.json",
+					"name" : "function_call_operator_functor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_pointer_function_pointer_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_pointer_function_pointer_cc-Debug-6b1696efbc7a95255be4.json",
+					"name" : "function_pointer_function_pointer_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_pointer_function_pointer_func_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_pointer_function_pointer_func_cc-Debug-0355242dd4fb9063583a.json",
+					"name" : "function_pointer_function_pointer_func_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "further_numeric_algorithms_adjacent_difference_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-further_numeric_algorithms_adjacent_difference_cc-Debug-2fd027d5e6cdd92a5eb7.json",
+					"name" : "further_numeric_algorithms_adjacent_difference_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "further_numeric_algorithms_inner_product_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-further_numeric_algorithms_inner_product_cc-Debug-4153ecf0e6cc98ea528d.json",
+					"name" : "further_numeric_algorithms_inner_product_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "further_numeric_algorithms_partial_sum_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-further_numeric_algorithms_partial_sum_cc-Debug-13f055d2f5c8da34a6a9.json",
+					"name" : "further_numeric_algorithms_partial_sum_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "further_numeric_algos_contd_inner_product_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-further_numeric_algos_contd_inner_product_cc-Debug-7ef298bdcab97863aeb6.json",
+					"name" : "further_numeric_algos_contd_inner_product_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "further_numeric_algos_contd_inner_product_overload_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-further_numeric_algos_contd_inner_product_overload_cc-Debug-6112e83538883d0e75b2.json",
+					"name" : "further_numeric_algos_contd_inner_product_overload_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "if_statements_and_switch_in_cpp17_fallthrough_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-if_statements_and_switch_in_cpp17_fallthrough_cc-Debug-578dc25a22f735f9bc64.json",
+					"name" : "if_statements_and_switch_in_cpp17_fallthrough_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "if_statements_and_switch_in_cpp17_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-if_statements_and_switch_in_cpp17_if_cc-Debug-57ce905662c4dc8bbf14.json",
+					"name" : "if_statements_and_switch_in_cpp17_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "if_statements_and_switch_in_cpp17_switch_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-if_statements_and_switch_in_cpp17_switch_cc-Debug-a9b27481c4d4ce06466a.json",
+					"name" : "if_statements_and_switch_in_cpp17_switch_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inline_namespace_inline_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inline_namespace_inline_cc-Debug-2900f37d55f46f05fc47.json",
+					"name" : "inline_namespace_inline_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inline_namespace_nested_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inline_namespace_nested_cc-Debug-3b89ae8c545642946ef6.json",
+					"name" : "inline_namespace_nested_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inline_namespace_product_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inline_namespace_product_cc-Debug-2fba48e8d57d193dfcaf.json",
+					"name" : "inline_namespace_product_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insert_iterators_back_insert_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insert_iterators_back_insert_cc-Debug-72be1226fcd5e5871ce8.json",
+					"name" : "insert_iterators_back_insert_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insert_iterators_insert_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insert_iterators_insert_cc-Debug-0ab5633d98370d830660.json",
+					"name" : "insert_iterators_insert_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insert_iterators_invalid_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insert_iterators_invalid_cc-Debug-b60d5cae7aefb1b8f156.json",
+					"name" : "insert_iterators_invalid_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insert_iterators_istream_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insert_iterators_istream_cc-Debug-7eab0a13670ec44708c6.json",
+					"name" : "insert_iterators_istream_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfaces_and_virtual_functions_abstract_base_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfaces_and_virtual_functions_abstract_base_cc-Debug-bb99ef429ca57b5609b2.json",
+					"name" : "interfaces_and_virtual_functions_abstract_base_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfaces_and_virtual_functions_object_slicing_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfaces_and_virtual_functions_object_slicing_cc-Debug-b3383fed277db090bb0b.json",
+					"name" : "interfaces_and_virtual_functions_object_slicing_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfaces_and_virtual_functions_object_unsliced_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfaces_and_virtual_functions_object_unsliced_cc-Debug-76784919b015c4f7ad87.json",
+					"name" : "interfaces_and_virtual_functions_object_unsliced_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfacing_to_c_add_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfacing_to_c_add_cc-Debug-a54d5a22758da081a840.json",
+					"name" : "interfacing_to_c_add_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interfacing_to_c_array_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interfacing_to_c_array_main_cc-Debug-c379179f1a26738f6f6a.json",
+					"name" : "interfacing_to_c_array_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_arithmetic_and_ranges_distance_advance_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_arithmetic_and_ranges_distance_advance_cc-Debug-8e5508f026efac5f0e0e.json",
+					"name" : "iterator_arithmetic_and_ranges_distance_advance_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_arithmetic_and_ranges_it_arith_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_arithmetic_and_ranges_it_arith_cc-Debug-97de15ac0c8b77d794da.json",
+					"name" : "iterator_arithmetic_and_ranges_it_arith_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_introduction_array_it_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_introduction_array_it_cc-Debug-a4c16706272d2d164b47.json",
+					"name" : "iterator_introduction_array_it_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_introduction_string_it_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_introduction_string_it_cc-Debug-f9152094fa9afabac293.json",
+					"name" : "iterator_introduction_string_it_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_introduction_string_loop_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_introduction_string_loop_cc-Debug-74c2bef1c5c1f59183f9.json",
+					"name" : "iterator_introduction_string_loop_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_introduction_vector_it_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_introduction_vector_it_cc-Debug-789324f60be47ffcb150.json",
+					"name" : "iterator_introduction_vector_it_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_capture_functor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_capture_functor_cc-Debug-b85247295165bd8589de.json",
+					"name" : "lambda_expressions_and_capture_capture_functor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_capture_lambda_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_capture_lambda_cc-Debug-f7455923b9400c7d80d8.json",
+					"name" : "lambda_expressions_and_capture_capture_lambda_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_contd_by_ref_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_contd_by_ref_cc-Debug-253472ca79234d2f607d.json",
+					"name" : "lambda_expressions_and_capture_contd_by_ref_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_contd_capture_functor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_contd_capture_functor_cc-Debug-db54b5da9bd2ca88eb88.json",
+					"name" : "lambda_expressions_and_capture_contd_capture_functor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_contd_capture_star_this_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_contd_capture_star_this_cc-Debug-27ac3dd5b7b44b6c24e0.json",
+					"name" : "lambda_expressions_and_capture_contd_capture_star_this_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_contd_capture_this_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_contd_capture_this_cc-Debug-af41632ae4156e3a1857.json",
+					"name" : "lambda_expressions_and_capture_contd_capture_this_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_mutable_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_mutable_cc-Debug-bb7b43ae645b7f35e586.json",
+					"name" : "lambda_expressions_and_capture_mutable_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_nocapture_lambda_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_nocapture_lambda_cc-Debug-5fe8e3681168356428cb.json",
+					"name" : "lambda_expressions_and_capture_nocapture_lambda_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_capture_non_local_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_capture_non_local_cc-Debug-c14e359c3c9ade173580.json",
+					"name" : "lambda_expressions_and_capture_non_local_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_partial_evaluation_partial_evaluation_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_partial_evaluation_partial_evaluation_cc-Debug-fba4804ea99f3aaac8c2.json",
+					"name" : "lambda_expressions_and_partial_evaluation_partial_evaluation_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_partial_evaluation_return_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_partial_evaluation_return_cc-Debug-4c0a0d4a6ed92f122556.json",
+					"name" : "lambda_expressions_and_partial_evaluation_return_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_and_partial_evaluation_stored_lambda_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_and_partial_evaluation_stored_lambda_cc-Debug-730129b45ee5d5ef20a1.json",
+					"name" : "lambda_expressions_and_partial_evaluation_stored_lambda_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_in_cpp14_generalized_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_in_cpp14_generalized_cc-Debug-759a46a4bc2e20288fab.json",
+					"name" : "lambda_expressions_in_cpp14_generalized_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_in_cpp14_generalized_init_capture_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_in_cpp14_generalized_init_capture_cc-Debug-d1d0895a1aae3cbc09d5.json",
+					"name" : "lambda_expressions_in_cpp14_generalized_init_capture_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_in_cpp14_generic_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_in_cpp14_generic_cc-Debug-939977ec9b988841eaba.json",
+					"name" : "lambda_expressions_in_cpp14_generic_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_introduction_functor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_introduction_functor_cc-Debug-8c969c71e2d420f12234.json",
+					"name" : "lambda_expressions_introduction_functor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_introduction_lambda_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_introduction_lambda_cc-Debug-409afab01a7dcac30551.json",
+					"name" : "lambda_expressions_introduction_lambda_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_practical_algo_lambda_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_practical_algo_lambda_cc-Debug-d71f46d044bb0979dd86.json",
+					"name" : "lambda_expressions_practical_algo_lambda_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda_expressions_practical_by_hand_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda_expressions_practical_by_hand_cc-Debug-bff70cda513e333686ac.json",
+					"name" : "lambda_expressions_practical_by_hand_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "less_than_operator_main_sort_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-less_than_operator_main_sort_cc-Debug-d544bd0b42d73bc2667e.json",
+					"name" : "less_than_operator_main_sort_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "less_than_operator_main_student_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-less_than_operator_main_student_cc-Debug-0bd4a13f6c5c10836af3.json",
+					"name" : "less_than_operator_main_student_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "less_than_operator_sort_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-less_than_operator_sort_cc-Debug-0d372b855a839c66b2cd.json",
+					"name" : "less_than_operator_sort_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "less_than_operator_student_by_name_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-less_than_operator_student_by_name_cc-Debug-c146deff2b09172ee138.json",
+					"name" : "less_than_operator_student_by_name_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "less_than_operator_student_by_number_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-less_than_operator_student_by_number_cc-Debug-4fa6210cf95526485a3a.json",
+					"name" : "less_than_operator_student_by_number_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_defined_operators_compare_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_defined_operators_compare_cc-Debug-c84ff701b0c783cc956c.json",
+					"name" : "library_defined_operators_compare_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_function_objects_sort_greater_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_function_objects_sort_greater_cc-Debug-bc60fe33d284991a9a18.json",
+					"name" : "library_function_objects_sort_greater_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_function_objects_sort_less_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_function_objects_sort_less_cc-Debug-c08857b19fc27aaba02e.json",
+					"name" : "library_function_objects_sort_less_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list_list_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_list_cc-Debug-e47e8463e4174d28e72d.json",
+					"name" : "list_list_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list_operations_merge_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_operations_merge_cc-Debug-f189adb103879f6ea0ed.json",
+					"name" : "list_operations_merge_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list_operations_remove_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_operations_remove_cc-Debug-fc5e6a9647cfc411c19d.json",
+					"name" : "list_operations_remove_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list_operations_splice_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_operations_splice_cc-Debug-578232a16b6657a82f99.json",
+					"name" : "list_operations_splice_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list_operations_splice_forward_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_operations_splice_forward_cc-Debug-ac73f4e5cc201bbf85c3.json",
+					"name" : "list_operations_splice_forward_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "local_variables_address_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-local_variables_address_cc-Debug-f0c2647d74f97d033a80.json",
+					"name" : "local_variables_address_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "local_variables_reference_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-local_variables_reference_cc-Debug-ad97e615bb400dd978be.json",
+					"name" : "local_variables_reference_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "local_variables_value_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-local_variables_value_cc-Debug-fc44a8058232933b2b28.json",
+					"name" : "local_variables_value_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loops_and_iterators_arr_begin_end_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loops_and_iterators_arr_begin_end_cc-Debug-b779bc438c1640205537.json",
+					"name" : "loops_and_iterators_arr_begin_end_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loops_and_iterators_new_begin_end_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loops_and_iterators_new_begin_end_cc-Debug-a380cdd7596e3288aec4.json",
+					"name" : "loops_and_iterators_new_begin_end_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loops_and_iterators_range_for_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loops_and_iterators_range_for_cc-Debug-267e1545128021826ad1.json",
+					"name" : "loops_and_iterators_range_for_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loops_and_iterators_reverse_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loops_and_iterators_reverse_cc-Debug-a57ec1424bfa11f080ef.json",
+					"name" : "loops_and_iterators_reverse_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lvalues_and_rvalue_references_move_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lvalues_and_rvalue_references_move_cc-Debug-364aa215f8276eee6af3.json",
+					"name" : "lvalues_and_rvalue_references_move_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lvalues_and_rvalue_references_rvalue_reference_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lvalues_and_rvalue_references_rvalue_reference_cc-Debug-5a5674d098884678d399.json",
+					"name" : "lvalues_and_rvalue_references_rvalue_reference_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lvalues_and_rvalues_const_ref_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lvalues_and_rvalues_const_ref_cc-Debug-bfafb62d153e3d649101.json",
+					"name" : "lvalues_and_rvalues_const_ref_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_add_remove_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_add_remove_cc-Debug-91b69b4ad89127608074.json",
+					"name" : "map_add_remove_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_algos_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_algos_cc-Debug-80ca4962f7bdf631ca13.json",
+					"name" : "map_algos_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_find_count_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_find_count_cc-Debug-da3fd8d8e010a1b169c5.json",
+					"name" : "map_find_count_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_insertion_insert_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_insertion_insert_cc-Debug-8f9dca58cc339c5c4d42.json",
+					"name" : "map_insertion_insert_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_subscript_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_subscript_cc-Debug-ba22aaa8d95b677e7e3b.json",
+					"name" : "map_subscript_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maps_in_cpp17_if_initializer_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maps_in_cpp17_if_initializer_cc-Debug-a542669a8336e2fbebce.json",
+					"name" : "maps_in_cpp17_if_initializer_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maps_in_cpp17_insert_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maps_in_cpp17_insert_cc-Debug-d507df73496fc567b8ef.json",
+					"name" : "maps_in_cpp17_insert_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maps_in_cpp17_insert_or_assign_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maps_in_cpp17_insert_or_assign_cc-Debug-0763729f5c0f422350a8.json",
+					"name" : "maps_in_cpp17_insert_or_assign_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maps_in_cpp17_loop_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maps_in_cpp17_loop_cc-Debug-135cc3559f453c70897d.json",
+					"name" : "maps_in_cpp17_loop_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maps_in_cpp17_pair_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maps_in_cpp17_pair_cc-Debug-7e7cc82cc76ef9fa917f.json",
+					"name" : "maps_in_cpp17_pair_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mastermind_input_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mastermind_input_cc-Debug-50f3e1824ac7bcf8b935.json",
+					"name" : "mastermind_input_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mastermind_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mastermind_main_cc-Debug-f72e6c2437fcf80e6070.json",
+					"name" : "mastermind_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mastermind_validate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mastermind_validate_cc-Debug-a62517be5b5d024f5fac.json",
+					"name" : "mastermind_validate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mathematical_types_input_output_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mathematical_types_input_output_cc-Debug-858a35cf08cb8cc6f1b8.json",
+					"name" : "mathematical_types_input_output_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mathematical_types_literal_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mathematical_types_literal_cc-Debug-9ff0dce903f51abdf23c.json",
+					"name" : "mathematical_types_literal_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mathematical_types_nonmember_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mathematical_types_nonmember_cc-Debug-947a3f5b3f542bdaad2b.json",
+					"name" : "mathematical_types_nonmember_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mathematical_types_operators_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mathematical_types_operators_cc-Debug-926ca28d21ce666b96ea.json",
+					"name" : "mathematical_types_operators_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_and_non_member_plus_member_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_and_non_member_plus_member_cc-Debug-ffd989f2a7c8cf74e9e9.json",
+					"name" : "member_and_non_member_plus_member_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_and_non_member_plus_non_member_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_and_non_member_plus_non_member_cc-Debug-93c310922ce5ee404ebb.json",
+					"name" : "member_and_non_member_plus_non_member_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_inheritance_extend_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_inheritance_extend_cc-Debug-76b8af8471ae3a90e28a.json",
+					"name" : "member_function_inheritance_extend_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_inheritance_inherit_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_inheritance_inherit_cc-Debug-3fee5fd6d537eaf0374e.json",
+					"name" : "member_function_inheritance_inherit_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_inheritance_protected_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_inheritance_protected_cc-Debug-b16221df98071b9ea16e.json",
+					"name" : "member_function_inheritance_protected_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_inheritance_reimplement_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_inheritance_reimplement_cc-Debug-49b3786bf39521a44497.json",
+					"name" : "member_function_inheritance_reimplement_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_pointers_bind_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_pointers_bind_cc-Debug-fea6796c012435c0444d.json",
+					"name" : "member_function_pointers_bind_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_pointers_call_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_pointers_call_cc-Debug-3599326965f84d2c3230.json",
+					"name" : "member_function_pointers_call_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_pointers_invoke_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_pointers_invoke_cc-Debug-c856b68476b56abd7f65.json",
+					"name" : "member_function_pointers_invoke_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "member_function_pointers_mem_fn_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-member_function_pointers_mem_fn_cc-Debug-9db54e18a502c04c4d5e.json",
+					"name" : "member_function_pointers_mem_fn_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merging_algorithms_merge_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merging_algorithms_merge_cc-Debug-ef5513d6386027746a4b.json",
+					"name" : "merging_algorithms_merge_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merging_algorithms_set_intersection_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merging_algorithms_set_intersection_cc-Debug-1730f0b9f965d1c016df.json",
+					"name" : "merging_algorithms_set_intersection_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merging_algorithms_set_union_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merging_algorithms_set_union_cc-Debug-23a692e0461aba3cdab6.json",
+					"name" : "merging_algorithms_set_union_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_and_max_algorithms_initializer_list_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_and_max_algorithms_initializer_list_cc-Debug-a5dcb138697e1974f1d1.json",
+					"name" : "min_and_max_algorithms_initializer_list_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_and_max_algorithms_max_and_min_element_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_and_max_algorithms_max_and_min_element_cc-Debug-4493345e345baea2c5fa.json",
+					"name" : "min_and_max_algorithms_max_and_min_element_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_and_max_algorithms_min_and_max_algorithms_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_and_max_algorithms_min_and_max_algorithms_cc-Debug-2a95f3ff336eaa2f5f91.json",
+					"name" : "min_and_max_algorithms_min_and_max_algorithms_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_and_max_algorithms_minmax_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_and_max_algorithms_minmax_cc-Debug-df082d68688f4fdd5275.json",
+					"name" : "min_and_max_algorithms_minmax_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_and_max_algorithms_minmax_element_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_and_max_algorithms_minmax_element_cc-Debug-1c296a7d52b63e728ba1.json",
+					"name" : "min_and_max_algorithms_minmax_element_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "min_and_max_algorithms_predicate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-min_and_max_algorithms_predicate_cc-Debug-2b75879ef69c9b282e1b.json",
+					"name" : "min_and_max_algorithms_predicate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "miscellaneous_string_operations_data_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-miscellaneous_string_operations_data_cc-Debug-e38541ad84d2750c01a0.json",
+					"name" : "miscellaneous_string_operations_data_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "miscellaneous_string_operations_swap_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-miscellaneous_string_operations_swap_cc-Debug-bbe1bad8fd2b1e698496.json",
+					"name" : "miscellaneous_string_operations_swap_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "miscellaneous_template_features_default_class_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-miscellaneous_template_features_default_class_cc-Debug-8f63184f3eb57395d86c.json",
+					"name" : "miscellaneous_template_features_default_class_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "miscellaneous_template_features_default_function_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-miscellaneous_template_features_default_function_cc-Debug-744dcebf6ba5154c836c.json",
+					"name" : "miscellaneous_template_features_default_function_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "miscellaneous_template_features_static_assert_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-miscellaneous_template_features_static_assert_cc-Debug-1607b982bae163eca251.json",
+					"name" : "miscellaneous_template_features_static_assert_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move_only_and_raii_capture_by_value_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_only_and_raii_capture_by_value_cc-Debug-1a7de531c6c45f6bccea.json",
+					"name" : "move_only_and_raii_capture_by_value_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move_only_and_raii_capture_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_only_and_raii_capture_cc-Debug-8fa889b9d27dde6abc39.json",
+					"name" : "move_only_and_raii_capture_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move_only_and_raii_move_only_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_only_and_raii_move_only_cc-Debug-6fa73e672b22e2317cb8.json",
+					"name" : "move_only_and_raii_move_only_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move_operators_better_example_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_operators_better_example_cc-Debug-43df8ce017b14704b325.json",
+					"name" : "move_operators_better_example_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move_operators_move_operators_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_operators_move_operators_cc-Debug-f3151f5223f77f7b5df2.json",
+					"name" : "move_operators_move_operators_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_inheritance_class_scope_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_inheritance_class_scope_cc-Debug-2713f6c7f41d0a297514.json",
+					"name" : "multiple_inheritance_class_scope_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_inheritance_hierarchy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_inheritance_hierarchy_cc-Debug-0208143fe23aed524d05.json",
+					"name" : "multiple_inheritance_hierarchy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_inheritance_unambiguous_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_inheritance_unambiguous_cc-Debug-42d09adb146d5b2a9686.json",
+					"name" : "multiple_inheritance_unambiguous_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiset_multimap_multimap_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiset_multimap_multimap_cc-Debug-6b52e0440d79cba946be.json",
+					"name" : "multiset_multimap_multimap_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiset_multimap_multimap_find_key_value_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiset_multimap_multimap_find_key_value_cc-Debug-98aa9a640a1bf5f1a05a.json",
+					"name" : "multiset_multimap_multimap_find_key_value_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiset_multimap_multimap_find_keys_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiset_multimap_multimap_find_keys_cc-Debug-153351a50a2702cac332.json",
+					"name" : "multiset_multimap_multimap_find_keys_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiset_multimap_multiset_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiset_multimap_multiset_cc-Debug-d855c3a2949503a3a97b.json",
+					"name" : "multiset_multimap_multiset_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "namespaces_hiding_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-namespaces_hiding_cc-Debug-c09972328dade85a51f7.json",
+					"name" : "namespaces_hiding_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_maps_list_initializer_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_maps_list_initializer_cc-Debug-f7786bbcafe998b053eb.json",
+					"name" : "nested_maps_list_initializer_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_maps_nested_map_erase_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_maps_nested_map_erase_cc-Debug-0f31c8398e0986595bce.json",
+					"name" : "nested_maps_nested_map_erase_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_maps_nested_map_insert_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_maps_nested_map_insert_cc-Debug-ca7467b308876bd605e1.json",
+					"name" : "nested_maps_nested_map_insert_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_maps_nested_map_iteration_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_maps_nested_map_iteration_cc-Debug-2b553046623415d9d1ad.json",
+					"name" : "nested_maps_nested_map_iteration_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_maps_using_statement_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_maps_using_statement_cc-Debug-358da6a2365a8bf77370.json",
+					"name" : "nested_maps_using_statement_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "noexcept_keyword_overload_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-noexcept_keyword_overload_cc-Debug-036f9ebd737d5ab40c41.json",
+					"name" : "noexcept_keyword_overload_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "noexcept_keyword_override_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-noexcept_keyword_override_cc-Debug-0f56cb463a5c32fd826b.json",
+					"name" : "noexcept_keyword_override_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_algorithms_accumulate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_algorithms_accumulate_cc-Debug-823ca40b08bf505536a3.json",
+					"name" : "numeric_algorithms_accumulate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_algorithms_accumulate_predicate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_algorithms_accumulate_predicate_cc-Debug-059d12e253e880aa0266.json",
+					"name" : "numeric_algorithms_accumulate_predicate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_algorithms_iota_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_algorithms_iota_cc-Debug-75bd6680165417f8bc18.json",
+					"name" : "numeric_algorithms_iota_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_algorithms_reduce_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_algorithms_reduce_cc-Debug-a29a5ed6ed3d04dd0c54.json",
+					"name" : "numeric_algorithms_reduce_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_types_and_literals_bases_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_types_and_literals_bases_cc-Debug-6cf3c7996ea9c3f9b007.json",
+					"name" : "numeric_types_and_literals_bases_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_types_and_literals_int_size_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_types_and_literals_int_size_cc-Debug-62f356ee496cf429f153.json",
+					"name" : "numeric_types_and_literals_int_size_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeric_types_and_literals_numeric_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeric_types_and_literals_numeric_cc-Debug-c59f3e6336945927e17a.json",
+					"name" : "numeric_types_and_literals_numeric_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "out_build_x64_Debug_CMakeFiles_3_31_6_msvc6_CompilerIdCXX_CMakeCXXCompilerId_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-out_build_x64_Debug_CMakeFiles_3_31_6_msvc6_CompilerIdCXX_CMakeCXXCompilerId_cpp-Debug-bdd84203dad2aa3bb6e7.json",
+					"name" : "out_build_x64_Debug_CMakeFiles_3_31_6_msvc6_CompilerIdCXX_CMakeCXXCompilerId_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "overloading_member_functions_define_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-overloading_member_functions_define_cc-Debug-c746ac6c7c569e8748f1.json",
+					"name" : "overloading_member_functions_define_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "overloading_member_functions_hiding_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-overloading_member_functions_hiding_cc-Debug-0abec2b5ceb80c54e061.json",
+					"name" : "overloading_member_functions_hiding_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "overloading_member_functions_overload_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-overloading_member_functions_overload_cc-Debug-9296af30d22e3590cec5.json",
+					"name" : "overloading_member_functions_overload_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "overloading_member_functions_using_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-overloading_member_functions_using_cc-Debug-9ac2b2c353e870787c71.json",
+					"name" : "overloading_member_functions_using_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pImpl_idiom_new_delete_Client_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pImpl_idiom_new_delete_Client_cpp-Debug-53b2486bff503b8299d6.json",
+					"name" : "pImpl_idiom_new_delete_Client_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pImpl_idiom_new_delete_Date_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pImpl_idiom_new_delete_Date_cpp-Debug-19f65bffac1a5cc50ecb.json",
+					"name" : "pImpl_idiom_new_delete_Date_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pImpl_idiom_unique_ptr_Client_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pImpl_idiom_unique_ptr_Client_cpp-Debug-dc8dd68f61195d808b3f.json",
+					"name" : "pImpl_idiom_unique_ptr_Client_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pImpl_idiom_unique_ptr_Date_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pImpl_idiom_unique_ptr_Date_cpp-Debug-1b70abe666523e6fc8d9.json",
+					"name" : "pImpl_idiom_unique_ptr_Date_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pair_type_find_index_03_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pair_type_find_index_03_cc-Debug-760775f70972df316bef.json",
+					"name" : "pair_type_find_index_03_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pair_type_find_index_17_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pair_type_find_index_17_cc-Debug-9a9d9f6cd9ec11360317.json",
+					"name" : "pair_type_find_index_17_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pair_type_find_index_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pair_type_find_index_cc-Debug-7241ee2bd6ae8ab810dd.json",
+					"name" : "pair_type_find_index_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pair_type_pair_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pair_type_pair_cc-Debug-53af6647ea2de77a3b79.json",
+					"name" : "pair_type_pair_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "palindrome_checker_palindrome_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-palindrome_checker_palindrome_cc-Debug-ba4d4a49fc8e2dcfe1a9.json",
+					"name" : "palindrome_checker_palindrome_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "partitioning_algorithms_is_partitioned_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-partitioning_algorithms_is_partitioned_cc-Debug-a0f0166c1102f6e6a96b.json",
+					"name" : "partitioning_algorithms_is_partitioned_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "partitioning_algorithms_partition_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-partitioning_algorithms_partition_cc-Debug-8dd550e20d11ec3d9d9c.json",
+					"name" : "partitioning_algorithms_partition_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "partitioning_algorithms_partition_point_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-partitioning_algorithms_partition_point_cc-Debug-70d89f1bf12ee7ab5c93.json",
+					"name" : "partitioning_algorithms_partition_point_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "partitioning_algorithms_stable_partition_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-partitioning_algorithms_stable_partition_cc-Debug-dbd71bdddde64f405209.json",
+					"name" : "partitioning_algorithms_stable_partition_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perfect_forwarding_perfect_forward_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perfect_forwarding_perfect_forward_cc-Debug-2b71342d11463374f134.json",
+					"name" : "perfect_forwarding_perfect_forward_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perfect_forwarding_practical_make_test_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perfect_forwarding_practical_make_test_cc-Debug-8297b3fe55a7936194d8.json",
+					"name" : "perfect_forwarding_practical_make_test_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "permutation_algorithms_is_permutation_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-permutation_algorithms_is_permutation_cc-Debug-f82485576f718f689418.json",
+					"name" : "permutation_algorithms_is_permutation_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "permutation_algorithms_next_permutation_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-permutation_algorithms_next_permutation_cc-Debug-df928b02477df7de1998.json",
+					"name" : "permutation_algorithms_next_permutation_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "permutation_algorithms_prev_permutation_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-permutation_algorithms_prev_permutation_cc-Debug-0726c53dda85095136b6.json",
+					"name" : "permutation_algorithms_prev_permutation_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_and_memory_array_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_and_memory_array_cc-Debug-703b23fcb13be56d3fa5.json",
+					"name" : "pointers_and_memory_array_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_and_memory_delete_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_and_memory_delete_cc-Debug-2e359a9a37efc584823e.json",
+					"name" : "pointers_and_memory_delete_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_and_memory_leak_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_and_memory_leak_cc-Debug-c807fadd6350c90c1022.json",
+					"name" : "pointers_and_memory_leak_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_and_memory_pointer_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_and_memory_pointer_cc-Debug-b2fec0279d5325ecc5e4.json",
+					"name" : "pointers_and_memory_pointer_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_references_and_inheritance_cast_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_references_and_inheritance_cast_cc-Debug-3fa488324ecbca096a36.json",
+					"name" : "pointers_references_and_inheritance_cast_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_references_and_inheritance_container_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_references_and_inheritance_container_cc-Debug-2ec92a761b8f7095d878.json",
+					"name" : "pointers_references_and_inheritance_container_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_references_and_inheritance_function_arg_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_references_and_inheritance_function_arg_cc-Debug-2a3d776096656957369d.json",
+					"name" : "pointers_references_and_inheritance_function_arg_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_references_and_inheritance_member_functions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_references_and_inheritance_member_functions_cc-Debug-6ebe91c612a58a3c301a.json",
+					"name" : "pointers_references_and_inheritance_member_functions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_references_and_inheritance_pointer_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_references_and_inheritance_pointer_cc-Debug-9c40fcacd0e837c0bc02.json",
+					"name" : "pointers_references_and_inheritance_pointer_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointers_references_and_inheritance_reference_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers_references_and_inheritance_reference_cc-Debug-f3082dcaaad8d74e7637.json",
+					"name" : "pointers_references_and_inheritance_reference_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prefix_and_postfix_complex_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prefix_and_postfix_complex_cc-Debug-9078b3915269bca077d3.json",
+					"name" : "prefix_and_postfix_complex_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "printing_out_class_member_data_print1_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-printing_out_class_member_data_print1_cc-Debug-9d9bd0b036e96db366c7.json",
+					"name" : "printing_out_class_member_data_print1_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "printing_out_class_member_data_print2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-printing_out_class_member_data_print2_cc-Debug-cf5d34476c078695304d.json",
+					"name" : "printing_out_class_member_data_print2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "printing_out_class_member_data_print3_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-printing_out_class_member_data_print3_cc-Debug-9b9ccf24cf2d8cdd7787.json",
+					"name" : "printing_out_class_member_data_print3_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "priority_queue_priority_queue_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-priority_queue_priority_queue_cc-Debug-26b81f5257311979108f.json",
+					"name" : "priority_queue_priority_queue_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_01_basic_window_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_01_basic_window_main_cc-Debug-514a01798029f44d874e.json",
+					"name" : "project_breakout_01_basic_window_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_02_random_walk_random_walk_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_02_random_walk_random_walk_cc-Debug-092384854026e19c0fd8.json",
+					"name" : "project_breakout_02_random_walk_random_walk_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_03_sprite_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_03_sprite_background_cc-Debug-db84ebc1f6fea0db8556.json",
+					"name" : "project_breakout_03_sprite_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_03_sprite_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_03_sprite_main_cc-Debug-9d58923a370d150cf3e2.json",
+					"name" : "project_breakout_03_sprite_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_04_ball_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_04_ball_background_cc-Debug-426b39716287bf68a00d.json",
+					"name" : "project_breakout_04_ball_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_04_ball_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_04_ball_ball_cc-Debug-62517f6bb9e6e7f6e506.json",
+					"name" : "project_breakout_04_ball_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_04_ball_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_04_ball_main_cc-Debug-cacd945eb4956ca78b03.json",
+					"name" : "project_breakout_04_ball_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_05_bouncing_ball_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_05_bouncing_ball_background_cc-Debug-7407466facec8095e2f2.json",
+					"name" : "project_breakout_05_bouncing_ball_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_05_bouncing_ball_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_05_bouncing_ball_ball_cc-Debug-f3234acdbc2826138f44.json",
+					"name" : "project_breakout_05_bouncing_ball_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_05_bouncing_ball_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_05_bouncing_ball_entity_cc-Debug-bf4a993a5abb1e6bad27.json",
+					"name" : "project_breakout_05_bouncing_ball_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_05_bouncing_ball_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_05_bouncing_ball_main_cc-Debug-23f9ea65b81941071430.json",
+					"name" : "project_breakout_05_bouncing_ball_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_06_paddle_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_06_paddle_background_cc-Debug-3fca3787f757de109880.json",
+					"name" : "project_breakout_06_paddle_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_06_paddle_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_06_paddle_ball_cc-Debug-7b51ae6323c9a4fad679.json",
+					"name" : "project_breakout_06_paddle_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_06_paddle_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_06_paddle_entity_cc-Debug-21c415ad218a90452b89.json",
+					"name" : "project_breakout_06_paddle_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_06_paddle_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_06_paddle_main_cc-Debug-4a34c9030a77c0722d15.json",
+					"name" : "project_breakout_06_paddle_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_06_paddle_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_06_paddle_paddle_cc-Debug-9a8cdea539ccfd141a38.json",
+					"name" : "project_breakout_06_paddle_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_07_moving_paddle_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_07_moving_paddle_background_cc-Debug-f5220da228ddb15d35f1.json",
+					"name" : "project_breakout_07_moving_paddle_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_07_moving_paddle_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_07_moving_paddle_ball_cc-Debug-670cfb4d47b101a63b15.json",
+					"name" : "project_breakout_07_moving_paddle_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_07_moving_paddle_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_07_moving_paddle_entity_cc-Debug-6622c689175773506292.json",
+					"name" : "project_breakout_07_moving_paddle_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_07_moving_paddle_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_07_moving_paddle_main_cc-Debug-f2143068ec760298fdc6.json",
+					"name" : "project_breakout_07_moving_paddle_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_07_moving_paddle_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_07_moving_paddle_paddle_cc-Debug-cb405678cff8c16dd7c2.json",
+					"name" : "project_breakout_07_moving_paddle_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_08_ball_paddle_interaction_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_08_ball_paddle_interaction_background_cc-Debug-4b1861760fbfeea2df90.json",
+					"name" : "project_breakout_08_ball_paddle_interaction_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_08_ball_paddle_interaction_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_08_ball_paddle_interaction_ball_cc-Debug-20b6b5101cf5cfe4aba6.json",
+					"name" : "project_breakout_08_ball_paddle_interaction_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_08_ball_paddle_interaction_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_08_ball_paddle_interaction_entity_cc-Debug-37aa6adaee84a2ff63b4.json",
+					"name" : "project_breakout_08_ball_paddle_interaction_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_08_ball_paddle_interaction_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_08_ball_paddle_interaction_interactions_cc-Debug-0a54e23b09bd0b4fc774.json",
+					"name" : "project_breakout_08_ball_paddle_interaction_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_08_ball_paddle_interaction_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_08_ball_paddle_interaction_main_cc-Debug-f7a87fe7307d9d4d0e29.json",
+					"name" : "project_breakout_08_ball_paddle_interaction_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_08_ball_paddle_interaction_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_08_ball_paddle_interaction_paddle_cc-Debug-c7612682179156471d57.json",
+					"name" : "project_breakout_08_ball_paddle_interaction_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_background_cc-Debug-0ba267ecc17b6c823e46.json",
+					"name" : "project_breakout_09_bricks_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_ball_cc-Debug-22822cec13f533fe0c34.json",
+					"name" : "project_breakout_09_bricks_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_brick_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_brick_cc-Debug-ca4c0e48d3315eaa388a.json",
+					"name" : "project_breakout_09_bricks_brick_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_entity_cc-Debug-3e60ea42b8472324ed1e.json",
+					"name" : "project_breakout_09_bricks_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_interactions_cc-Debug-754ef0769334621b45bf.json",
+					"name" : "project_breakout_09_bricks_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_main_cc-Debug-104e6f0eeca26959f0b7.json",
+					"name" : "project_breakout_09_bricks_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_09_bricks_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_09_bricks_paddle_cc-Debug-b3ad62acbebabe7f068f.json",
+					"name" : "project_breakout_09_bricks_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_background_cc-Debug-fb5d74fc288ce1b079ec.json",
+					"name" : "project_breakout_10_brick_ball_interaction_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_ball_cc-Debug-75f028b63328a9c73f32.json",
+					"name" : "project_breakout_10_brick_ball_interaction_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_brick_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_brick_cc-Debug-7d255848157a421d9eaa.json",
+					"name" : "project_breakout_10_brick_ball_interaction_brick_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_entity_cc-Debug-baef718f83083d7ead63.json",
+					"name" : "project_breakout_10_brick_ball_interaction_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_interactions_cc-Debug-1bb86dedc8b424a703ec.json",
+					"name" : "project_breakout_10_brick_ball_interaction_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_main_cc-Debug-202b5edac22d3d4dd92a.json",
+					"name" : "project_breakout_10_brick_ball_interaction_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_10_brick_ball_interaction_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_10_brick_ball_interaction_paddle_cc-Debug-f67e26b3ccc88dcb7c2f.json",
+					"name" : "project_breakout_10_brick_ball_interaction_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_background_cc-Debug-0158e3761c44151787e6.json",
+					"name" : "project_breakout_11_game_manager_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_ball_cc-Debug-762bcba6fb122fba3c2e.json",
+					"name" : "project_breakout_11_game_manager_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_brick_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_brick_cc-Debug-8a10e8404eb0074de8d7.json",
+					"name" : "project_breakout_11_game_manager_brick_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_entity_cc-Debug-01e31e209779ad8cacea.json",
+					"name" : "project_breakout_11_game_manager_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_game_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_game_cc-Debug-c024bf105c07655bdf5d.json",
+					"name" : "project_breakout_11_game_manager_game_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_interactions_cc-Debug-9cd0acb2c8ddd29ffd36.json",
+					"name" : "project_breakout_11_game_manager_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_main_cc-Debug-88c70f1c57c05893f198.json",
+					"name" : "project_breakout_11_game_manager_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_11_game_manager_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_11_game_manager_paddle_cc-Debug-34499a918f581e781287.json",
+					"name" : "project_breakout_11_game_manager_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_background_cc-Debug-de90367c7b9f5d093718.json",
+					"name" : "project_breakout_12_entity_manager_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_ball_cc-Debug-d1508ce4fc3786e82c06.json",
+					"name" : "project_breakout_12_entity_manager_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_brick_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_brick_cc-Debug-34580df8bed6f26ff0b2.json",
+					"name" : "project_breakout_12_entity_manager_brick_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_entity_cc-Debug-0026c341887c86a02314.json",
+					"name" : "project_breakout_12_entity_manager_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_game_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_game_cc-Debug-1b9ed92c526e660f7e88.json",
+					"name" : "project_breakout_12_entity_manager_game_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_interactions_cc-Debug-1e5ed00308713b7d3c40.json",
+					"name" : "project_breakout_12_entity_manager_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_main_cc-Debug-a02d67db072f482e5461.json",
+					"name" : "project_breakout_12_entity_manager_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_12_entity_manager_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_12_entity_manager_paddle_cc-Debug-540d215a0638ffdec676.json",
+					"name" : "project_breakout_12_entity_manager_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_background_cc-Debug-098c728bcd152f1f22e0.json",
+					"name" : "project_breakout_13_brick_strength_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_ball_cc-Debug-33b98b1be4405a0e2e5b.json",
+					"name" : "project_breakout_13_brick_strength_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_brick_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_brick_cc-Debug-993fd0295c60c7bb6a0a.json",
+					"name" : "project_breakout_13_brick_strength_brick_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_entity_cc-Debug-f7d99ff982d9f9ea5eb6.json",
+					"name" : "project_breakout_13_brick_strength_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_game_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_game_cc-Debug-c961c7fd0bee420fbafa.json",
+					"name" : "project_breakout_13_brick_strength_game_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_interactions_cc-Debug-910ca5eac38e667cea9a.json",
+					"name" : "project_breakout_13_brick_strength_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_main_cc-Debug-f6cb1583c83c5adae299.json",
+					"name" : "project_breakout_13_brick_strength_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_13_brick_strength_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_13_brick_strength_paddle_cc-Debug-6721579b15f605508393.json",
+					"name" : "project_breakout_13_brick_strength_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_background_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_background_cc-Debug-f35efc466c837931c1f5.json",
+					"name" : "project_breakout_14_more_features_background_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_ball_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_ball_cc-Debug-1316a8d16d43d4674f31.json",
+					"name" : "project_breakout_14_more_features_ball_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_brick_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_brick_cc-Debug-dfd2c0104b2a877e6dce.json",
+					"name" : "project_breakout_14_more_features_brick_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_entity_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_entity_cc-Debug-4214897f6503d812992b.json",
+					"name" : "project_breakout_14_more_features_entity_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_game_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_game_cc-Debug-1a350717c6fb2c9b3891.json",
+					"name" : "project_breakout_14_more_features_game_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_interactions_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_interactions_cc-Debug-75c938594cec2caa6212.json",
+					"name" : "project_breakout_14_more_features_interactions_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_main_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_main_cc-Debug-b6f801135d2e1598b5ed.json",
+					"name" : "project_breakout_14_more_features_main_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project_breakout_14_more_features_paddle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_breakout_14_more_features_paddle_cc-Debug-2f05669bd1cf1dd52f66.json",
+					"name" : "project_breakout_14_more_features_paddle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "queue_queue_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queue_queue_cc-Debug-f8a47aecaeccf9accace.json",
+					"name" : "queue_queue_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raii_class_with_move_operators_move_and_swap_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raii_class_with_move_operators_move_and_swap_cc-Debug-7a34720c1fed5670b68d.json",
+					"name" : "raii_class_with_move_operators_move_and_swap_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raii_class_with_move_operators_move_assignment_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raii_class_with_move_operators_move_assignment_cc-Debug-d32ce1b2ac3e2b7c34d7.json",
+					"name" : "raii_class_with_move_operators_move_assignment_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raii_class_with_move_operators_move_constructor_1st_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raii_class_with_move_operators_move_constructor_1st_cc-Debug-db982cea535a147b89ae.json",
+					"name" : "raii_class_with_move_operators_move_constructor_1st_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raii_class_with_move_operators_move_constructor_final_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raii_class_with_move_operators_move_constructor_final_cc-Debug-3279e791488049cc4bea.json",
+					"name" : "raii_class_with_move_operators_move_constructor_final_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_access_to_streams_tell_sstream_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_access_to_streams_tell_sstream_cc-Debug-e59f1310c2004e5045eb.json",
+					"name" : "random_access_to_streams_tell_sstream_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_algorithms_bernoulli_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_algorithms_bernoulli_cc-Debug-6c983a82c758247b779e.json",
+					"name" : "random_number_algorithms_bernoulli_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_algorithms_shuffle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_algorithms_shuffle_cc-Debug-6b834ccbf8f37ed74d59.json",
+					"name" : "random_number_algorithms_shuffle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_algorithms_shuffle_implementation_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_algorithms_shuffle_implementation_cc-Debug-30a652b23338b5454718.json",
+					"name" : "random_number_algorithms_shuffle_implementation_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_numbers_in_modern_cpp_distribution_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_numbers_in_modern_cpp_distribution_cc-Debug-95ada92a6fa079e830f5.json",
+					"name" : "random_numbers_in_modern_cpp_distribution_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_numbers_in_modern_cpp_engine_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_numbers_in_modern_cpp_engine_cc-Debug-688a2e9e0a1abc3b2c2d.json",
+					"name" : "random_numbers_in_modern_cpp_engine_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_numbers_in_modern_cpp_random_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_numbers_in_modern_cpp_random_cc-Debug-627954cac553c2311f1e.json",
+					"name" : "random_numbers_in_modern_cpp_random_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_numbers_in_traditional_cpp_rand_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_numbers_in_traditional_cpp_rand_cc-Debug-d91c1df4e21f59b186a2.json",
+					"name" : "random_numbers_in_traditional_cpp_rand_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_numbers_in_traditional_cpp_rand_range_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_numbers_in_traditional_cpp_rand_range_cc-Debug-7f065c3f2ec05dfef41a.json",
+					"name" : "random_numbers_in_traditional_cpp_rand_range_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_numbers_in_traditional_cpp_seed_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_numbers_in_traditional_cpp_seed_cc-Debug-91ac10b5dde7015e14cf.json",
+					"name" : "random_numbers_in_traditional_cpp_seed_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_walk_practical_random_walk_1d_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_walk_practical_random_walk_1d_cc-Debug-8dcacdf11e1435a4ea06.json",
+					"name" : "random_walk_practical_random_walk_1d_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_walk_practical_random_walk_2d_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_walk_practical_random_walk_2d_cc-Debug-2208d35bced2a363335a.json",
+					"name" : "random_walk_practical_random_walk_2d_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reference_counting_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reference_counting_string_cc-Debug-0c5df76b604988e374b1.json",
+					"name" : "reference_counting_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reference_counting_string_move_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reference_counting_string_move_cc-Debug-5335a08834307d301614.json",
+					"name" : "reference_counting_string_move_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_remove_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_remove_copy_cc-Debug-a2254622af1a1b687bb5.json",
+					"name" : "removing_algorithms_continued_remove_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_remove_copy_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_remove_copy_if_cc-Debug-954552ec37bbeb3e7480.json",
+					"name" : "removing_algorithms_continued_remove_copy_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_remove_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_remove_if_cc-Debug-07420ee06db101e6c9df.json",
+					"name" : "removing_algorithms_continued_remove_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_unique_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_unique_cc-Debug-2a721f32a2af7a4ce9cb.json",
+					"name" : "removing_algorithms_continued_unique_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_unique_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_unique_copy_cc-Debug-398c8b21269b2471bc9f.json",
+					"name" : "removing_algorithms_continued_unique_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_unique_copy_pred_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_unique_copy_pred_cc-Debug-36e9c6f08f4e140e2b34.json",
+					"name" : "removing_algorithms_continued_unique_copy_pred_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_continued_unique_pred_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_continued_unique_pred_cc-Debug-5d4df4e9f548df32e4d0.json",
+					"name" : "removing_algorithms_continued_unique_pred_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_erase_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_erase_cc-Debug-2c0e46d733cdc48f4cd1.json",
+					"name" : "removing_algorithms_erase_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_algorithms_remove_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_algorithms_remove_cc-Debug-0edcb64875b9cc79cf62.json",
+					"name" : "removing_algorithms_remove_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_elements_strings_assign_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_elements_strings_assign_cc-Debug-b9c55f1d195b88eeb146.json",
+					"name" : "removing_elements_strings_assign_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_elements_strings_erase2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_elements_strings_erase2_cc-Debug-d6670a91e5fbbf65fd59.json",
+					"name" : "removing_elements_strings_erase2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_elements_strings_erase_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_elements_strings_erase_cc-Debug-82a970d49236acd4da69.json",
+					"name" : "removing_elements_strings_erase_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_elements_strings_replace2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_elements_strings_replace2_cc-Debug-18da5ea0555a3585a80b.json",
+					"name" : "removing_elements_strings_replace2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "removing_elements_strings_replace_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-removing_elements_strings_replace_cc-Debug-1985cd4c0e859e531e1c.json",
+					"name" : "removing_elements_strings_replace_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reordering_algorithms_reverse_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reordering_algorithms_reverse_cc-Debug-e1f10e3632b979904dff.json",
+					"name" : "reordering_algorithms_reverse_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reordering_algorithms_rotate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reordering_algorithms_rotate_cc-Debug-7e74a430c84305f38bfe.json",
+					"name" : "reordering_algorithms_rotate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reordering_algorithms_rotate_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reordering_algorithms_rotate_copy_cc-Debug-73c795c8b392b3881a9a.json",
+					"name" : "reordering_algorithms_rotate_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runtime_type_information_dynamic_cast_ptr_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runtime_type_information_dynamic_cast_ptr_cc-Debug-e2d269ccf92e869ff512.json",
+					"name" : "runtime_type_information_dynamic_cast_ptr_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runtime_type_information_dynamic_cast_ref_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runtime_type_information_dynamic_cast_ref_cc-Debug-fbccd8676f4512bee032.json",
+					"name" : "runtime_type_information_dynamic_cast_ref_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runtime_type_information_hash_code_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runtime_type_information_hash_code_cc-Debug-450dc2126c3f6caba902.json",
+					"name" : "runtime_type_information_hash_code_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runtime_type_information_type_info_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runtime_type_information_type_info_cc-Debug-f63d923deef337cd03f6.json",
+					"name" : "runtime_type_information_type_info_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runtime_type_information_typeid_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runtime_type_information_typeid_cc-Debug-46e983f9d2fdab796a97.json",
+					"name" : "runtime_type_information_typeid_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_algorithms_continued_all_of_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_algorithms_continued_all_of_cc-Debug-2b46f47f4af4dce7f88c.json",
+					"name" : "search_algorithms_continued_all_of_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_algorithms_continued_any_of_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_algorithms_continued_any_of_cc-Debug-efe7c58e3e7b982ad142.json",
+					"name" : "search_algorithms_continued_any_of_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_algorithms_continued_binary_search_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_algorithms_continued_binary_search_cc-Debug-f12c67d04d28871d2e52.json",
+					"name" : "search_algorithms_continued_binary_search_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_algorithms_continued_includes_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_algorithms_continued_includes_cc-Debug-0f137e408ef602175f2a.json",
+					"name" : "search_algorithms_continued_includes_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_algorithms_continued_mismatch_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_algorithms_continued_mismatch_cc-Debug-31344d40f4d1fabb18c8.json",
+					"name" : "search_algorithms_continued_mismatch_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search_algorithms_continued_none_of_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search_algorithms_continued_none_of_cc-Debug-5008604efee2e77dc25b.json",
+					"name" : "search_algorithms_continued_none_of_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_algorithms_adjacent_find_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_algorithms_adjacent_find_cc-Debug-937c359279b17002238e.json",
+					"name" : "searching_algorithms_adjacent_find_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_algorithms_find_first_of_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_algorithms_find_first_of_cc-Debug-936576cc7f0f391927d8.json",
+					"name" : "searching_algorithms_find_first_of_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_algorithms_find_first_of_repeat_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_algorithms_find_first_of_repeat_cc-Debug-0a9f44e0e2873d1cdf59.json",
+					"name" : "searching_algorithms_find_first_of_repeat_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_algorithms_search_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_algorithms_search_cc-Debug-deb24975d8488acf0cc1.json",
+					"name" : "searching_algorithms_search_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_algorithms_search_n_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_algorithms_search_n_cc-Debug-6516affc3d0740e5f9c6.json",
+					"name" : "searching_algorithms_search_n_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_multimap_equal_range_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_multimap_equal_range_cc-Debug-5f7b9ac8168ee44aeaf6.json",
+					"name" : "searching_multimap_equal_range_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_multimap_equal_range_copy_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_multimap_equal_range_copy_if_cc-Debug-0718aed0f8fb19f20ea1.json",
+					"name" : "searching_multimap_equal_range_copy_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_multimap_equal_range_find_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_multimap_equal_range_find_if_cc-Debug-9efa8d0f7f2593f85fa2.json",
+					"name" : "searching_multimap_equal_range_find_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_multimap_equal_range_find_if_repeated_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_multimap_equal_range_find_if_repeated_cc-Debug-cffcfe11cf0964b1f714.json",
+					"name" : "searching_multimap_equal_range_find_if_repeated_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_multimap_find_key_value_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_multimap_find_key_value_cc-Debug-ef5de8423bdf5efa7a77.json",
+					"name" : "searching_multimap_find_key_value_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_multimap_upper_and_lower_bound_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_multimap_upper_and_lower_bound_cc-Debug-f2beacf1f8a4333cd936.json",
+					"name" : "searching_multimap_upper_and_lower_bound_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_strings_find2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_strings_find2_cc-Debug-286b6e45d4d9ccc0ad50.json",
+					"name" : "searching_strings_find2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_strings_find_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_strings_find_cc-Debug-9cdf5dbeeeedd8dacd6b.json",
+					"name" : "searching_strings_find_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_strings_rfind_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_strings_rfind_cc-Debug-c5fc0b2d38baf948f081.json",
+					"name" : "searching_strings_rfind_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "searching_strings_vowels_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-searching_strings_vowels_cc-Debug-03eae398c726efa38863.json",
+					"name" : "searching_strings_vowels_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sets_add_remove_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sets_add_remove_cc-Debug-4924f885e8ec671dafae.json",
+					"name" : "sets_add_remove_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sets_algos_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sets_algos_cc-Debug-abdbd9538d43f7b7a006.json",
+					"name" : "sets_algos_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sets_find_count_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sets_find_count_cc-Debug-427179df55186f00277a.json",
+					"name" : "sets_find_count_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shallow_and_deep_copying_deep_assign_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shallow_and_deep_copying_deep_assign_cc-Debug-8e61c9bdad6f0afd39c8.json",
+					"name" : "shallow_and_deep_copying_deep_assign_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shallow_and_deep_copying_deep_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shallow_and_deep_copying_deep_copy_cc-Debug-c9441f0e46254125a50c.json",
+					"name" : "shallow_and_deep_copying_deep_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shallow_and_deep_copying_shallow_assign_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shallow_and_deep_copying_shallow_assign_cc-Debug-a6b8715363c00e844982.json",
+					"name" : "shallow_and_deep_copying_shallow_assign_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shallow_and_deep_copying_shallow_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shallow_and_deep_copying_shallow_copy_cc-Debug-a08745be7f7944f3abfe.json",
+					"name" : "shallow_and_deep_copying_shallow_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shared_pointer_operations_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shared_pointer_operations_cc-Debug-8945a9144e86fb3f219a.json",
+					"name" : "shared_pointer_operations_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_continued_nth_element_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_continued_nth_element_cc-Debug-434152765f3743b60ed7.json",
+					"name" : "sorting_algorithms_continued_nth_element_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_continued_partial_sort_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_continued_partial_sort_cc-Debug-e1b4230ac19f65be2530.json",
+					"name" : "sorting_algorithms_continued_partial_sort_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_continued_partial_sort_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_continued_partial_sort_copy_cc-Debug-3a21c2142fe5162a89a2.json",
+					"name" : "sorting_algorithms_continued_partial_sort_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_is_sorted_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_is_sorted_cc-Debug-abb7f4a503b350132583.json",
+					"name" : "sorting_algorithms_is_sorted_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_is_sorted_until_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_is_sorted_until_cc-Debug-b0f49f1b58415889e8b2.json",
+					"name" : "sorting_algorithms_is_sorted_until_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_main_sort_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_main_sort_cc-Debug-48a7f4d9721fd9676649.json",
+					"name" : "sorting_algorithms_main_sort_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_main_stable_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_main_stable_cc-Debug-2708d74c672141aa7819.json",
+					"name" : "sorting_algorithms_main_stable_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_sort_predicate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_sort_predicate_cc-Debug-2c65793876a9cdff8bd6.json",
+					"name" : "sorting_algorithms_sort_predicate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting_algorithms_student_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting_algorithms_student_cc-Debug-4ac4667c18d6614a7310.json",
+					"name" : "sorting_algorithms_student_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "special_member_fns_in_c__11_move_only_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-special_member_fns_in_c__11_move_only_cc-Debug-ff635f48be9c03e5df26.json",
+					"name" : "special_member_fns_in_c__11_move_only_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_stack_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_stack_cc-Debug-8f2b421d68d023196e99.json",
+					"name" : "stack_stack_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_exception_hierarchy_bounds_checking_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_exception_hierarchy_bounds_checking_cc-Debug-0b6958040b5122b4358b.json",
+					"name" : "standard_exception_hierarchy_bounds_checking_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_exception_subclasses_nan_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_exception_subclasses_nan_cc-Debug-3ce238c7afd0b932966d.json",
+					"name" : "standard_exception_subclasses_nan_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_exception_subclasses_stream_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_exception_subclasses_stream_cc-Debug-2d021f33c87140284926.json",
+					"name" : "standard_exception_subclasses_stream_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_library_array_array_loop_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_library_array_array_loop_cc-Debug-344431e664d421d51275.json",
+					"name" : "standard_library_array_array_loop_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_library_array_array_usage_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_library_array_array_usage_cc-Debug-1ac7126952c9efb7754e.json",
+					"name" : "standard_library_array_array_usage_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_library_array_function_argument_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_library_array_function_argument_cc-Debug-1b5d8f0f07f3499f2ed5.json",
+					"name" : "standard_library_array_function_argument_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "static_and_dynamic_type_virtual_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-static_and_dynamic_type_virtual_cc-Debug-a3030ad53a568d5ccd39.json",
+					"name" : "static_and_dynamic_type_virtual_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_iterators_istream_iterator2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_iterators_istream_iterator2_cc-Debug-fd14f51f1404298a44ee.json",
+					"name" : "stream_iterators_istream_iterator2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_iterators_istream_iterator_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_iterators_istream_iterator_cc-Debug-ced1f19fc277fd075e07.json",
+					"name" : "stream_iterators_istream_iterator_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_iterators_ostream_iterator_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_iterators_ostream_iterator_cc-Debug-565e53ebb420b2530673.json",
+					"name" : "stream_iterators_ostream_iterator_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_manipulators_formatting_boolalpha_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_manipulators_formatting_boolalpha_cc-Debug-4821a06070779c4febf9.json",
+					"name" : "stream_manipulators_formatting_boolalpha_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_manipulators_formatting_setfill_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_manipulators_formatting_setfill_cc-Debug-62072e3cb03e29feb259.json",
+					"name" : "stream_manipulators_formatting_setfill_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_manipulators_formatting_setw_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_manipulators_formatting_setw_cc-Debug-d1b7eed8fa04057a4db6.json",
+					"name" : "stream_manipulators_formatting_setw_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_memfns_and_state_checking_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_memfns_and_state_checking_cc-Debug-928b7bc142aaa1a372d6.json",
+					"name" : "stream_memfns_and_state_checking_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_memfns_and_state_eof_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_memfns_and_state_eof_cc-Debug-fafebb4ae975bc569e55.json",
+					"name" : "stream_memfns_and_state_eof_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_memfns_and_state_recover2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_memfns_and_state_recover2_cc-Debug-1dda263de5657b320ef2.json",
+					"name" : "stream_memfns_and_state_recover2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_memfns_and_state_recover3_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_memfns_and_state_recover3_cc-Debug-4324420555b2a1e98ed7.json",
+					"name" : "stream_memfns_and_state_recover3_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_memfns_and_state_recover4_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_memfns_and_state_recover4_cc-Debug-36752936cd57ff1d7f1b.json",
+					"name" : "stream_memfns_and_state_recover4_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stream_memfns_and_state_recover_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stream_memfns_and_state_recover_cc-Debug-cc0245d3c151a20c7d58.json",
+					"name" : "stream_memfns_and_state_recover_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "streams_and_buffering_flush2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-streams_and_buffering_flush2_cc-Debug-bbffb021488a7a78d8ec.json",
+					"name" : "streams_and_buffering_flush2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "streams_and_buffering_flush_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-streams_and_buffering_flush_cc-Debug-7d4a0ade1030fa70dea6.json",
+					"name" : "streams_and_buffering_flush_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string_literals_raw_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string_literals_raw_cc-Debug-ebc03563daa9ac98f465.json",
+					"name" : "string_literals_raw_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string_literals_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string_literals_string_cc-Debug-a492fb20aa001eba5dde.json",
+					"name" : "string_literals_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringstreams_istringstream_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringstreams_istringstream_cc-Debug-513a1c05e35980b36da6.json",
+					"name" : "stringstreams_istringstream_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringstreams_ostringstream_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringstreams_ostringstream_cc-Debug-66934793226a3be76125.json",
+					"name" : "stringstreams_ostringstream_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringstreams_to_string_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringstreams_to_string_cc-Debug-81c41d262ebecec7b47d.json",
+					"name" : "stringstreams_to_string_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "swap_function_overload_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-swap_function_overload_cc-Debug-fe305b519eb65064a4d5.json",
+					"name" : "swap_function_overload_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "synthesized_member_fns_default_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-synthesized_member_fns_default_cc-Debug-8db77499fac125ecf84b.json",
+					"name" : "synthesized_member_fns_default_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "template_specialization_partial_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-template_specialization_partial_cc-Debug-dcb39560c80d03d40a3f.json",
+					"name" : "template_specialization_partial_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "template_specialization_specialization_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-template_specialization_specialization_cc-Debug-321b31c5d5b2e9ea7b5e.json",
+					"name" : "template_specialization_specialization_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "template_specialization_specialization_func_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-template_specialization_specialization_func_cc-Debug-a9c4245a50d173a09267.json",
+					"name" : "template_specialization_specialization_func_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "templates_overview_argument_deduction_in_cpp17_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-templates_overview_argument_deduction_in_cpp17_cc-Debug-7d5064d5bdfa0064b97b.json",
+					"name" : "templates_overview_argument_deduction_in_cpp17_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "templates_overview_func_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-templates_overview_func_cc-Debug-626d20a72740fd53e980.json",
+					"name" : "templates_overview_func_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trad_pointers_array_allocation_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trad_pointers_array_allocation_cc-Debug-e14ffe58be18b8479f8a.json",
+					"name" : "trad_pointers_array_allocation_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trad_pointers_pass_by_address_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trad_pointers_pass_by_address_cc-Debug-a1563df1b20fe1ba4186.json",
+					"name" : "trad_pointers_pass_by_address_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trad_pointers_stack_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trad_pointers_stack_cc-Debug-d60001857653ce7bcfac.json",
+					"name" : "trad_pointers_stack_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transform_algorithms_equal_strings_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transform_algorithms_equal_strings_cc-Debug-9aae1f3dc9e55df1bc59.json",
+					"name" : "transform_algorithms_equal_strings_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transform_algorithms_transform_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transform_algorithms_transform_cc-Debug-973458e87754d1f33a97.json",
+					"name" : "transform_algorithms_transform_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transform_algorithms_transform_inplace_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transform_algorithms_transform_inplace_cc-Debug-2d8dcba82c5d023c6a66.json",
+					"name" : "transform_algorithms_transform_inplace_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transform_algorithms_transform_overload_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transform_algorithms_transform_overload_cc-Debug-1afc8ff7d4540c4592ff.json",
+					"name" : "transform_algorithms_transform_overload_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try_catch_blocks_catch_elsewhere_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try_catch_blocks_catch_elsewhere_cc-Debug-4743839f7f392b67fbdc.json",
+					"name" : "try_catch_blocks_catch_elsewhere_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try_catch_blocks_nested_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try_catch_blocks_nested_cc-Debug-7ce9a390e3021ec45ea0.json",
+					"name" : "try_catch_blocks_nested_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try_catch_blocks_order2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try_catch_blocks_order2_cc-Debug-e70028d0b83e3101d0cf.json",
+					"name" : "try_catch_blocks_order2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try_catch_blocks_order_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try_catch_blocks_order_cc-Debug-2be7a8b1c4cbdbc373af.json",
+					"name" : "try_catch_blocks_order_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuples_get_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuples_get_cc-Debug-952b8d498404611f886b.json",
+					"name" : "tuples_get_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuples_in_cpp17_apply_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuples_in_cpp17_apply_cc-Debug-4092c71c774c10a35be6.json",
+					"name" : "tuples_in_cpp17_apply_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuples_in_cpp17_make_from_tuple_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuples_in_cpp17_make_from_tuple_cc-Debug-ff55a521deb678b8468d.json",
+					"name" : "tuples_in_cpp17_make_from_tuple_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuples_in_cpp17_return_cpp17_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuples_in_cpp17_return_cpp17_cc-Debug-81e555c2db5d788abba9.json",
+					"name" : "tuples_in_cpp17_return_cpp17_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuples_return_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuples_return_cc-Debug-b7cf64570a82cfe26208.json",
+					"name" : "tuples_return_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuples_tie_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuples_tie_cc-Debug-0606ee864b33cc50c6a0.json",
+					"name" : "tuples_tie_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "two_dimensional_arrays_flattened_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-two_dimensional_arrays_flattened_cc-Debug-2d3feba1b47934b15124.json",
+					"name" : "two_dimensional_arrays_flattened_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "two_dimensional_arrays_iteration_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-two_dimensional_arrays_iteration_cc-Debug-472cd8dce0c6bc02b363.json",
+					"name" : "two_dimensional_arrays_iteration_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unbuffered_input_and_output_gcount_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unbuffered_input_and_output_gcount_cc-Debug-9c3eb92ef2053842c059.json",
+					"name" : "unbuffered_input_and_output_gcount_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unbuffered_input_and_output_get_put_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unbuffered_input_and_output_get_put_cc-Debug-bac360abfaabe40b0860.json",
+					"name" : "unbuffered_input_and_output_get_put_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unbuffered_input_and_output_read_write_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unbuffered_input_and_output_read_write_cc-Debug-409c48dc838c5b91d2ad.json",
+					"name" : "unbuffered_input_and_output_read_write_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unions_continued_variant_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unions_continued_variant_cc-Debug-0794ce6ea05b065fcd20.json",
+					"name" : "unions_continued_variant_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unions_continued_wrapped_tagged_union_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unions_continued_wrapped_tagged_union_cc-Debug-5bdc4ff6da35c92e7a2c.json",
+					"name" : "unions_continued_wrapped_tagged_union_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unions_tagged_union_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unions_tagged_union_cc-Debug-ec12ddc25528e02e1d91.json",
+					"name" : "unions_tagged_union_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unions_union_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unions_union_cc-Debug-e23e116b3087c4c38101.json",
+					"name" : "unions_union_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_and_polymorphism_container_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_and_polymorphism_container_cc-Debug-7f2f7dcb002cb25df2fc.json",
+					"name" : "unique_pointer_and_polymorphism_container_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_and_polymorphism_container_trad_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_and_polymorphism_container_trad_cc-Debug-e1ce1b83e4830d5a486c.json",
+					"name" : "unique_pointer_and_polymorphism_container_trad_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_and_polymorphism_factory_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_and_polymorphism_factory_cc-Debug-51154a63f06591e82c81.json",
+					"name" : "unique_pointer_and_polymorphism_factory_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_and_polymorphism_factory_traditional_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_and_polymorphism_factory_traditional_cc-Debug-fd4bdd886cad3d805b42.json",
+					"name" : "unique_pointer_and_polymorphism_factory_traditional_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_argument_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_argument_cc-Debug-348ee86c6fd1ac855808.json",
+					"name" : "unique_pointer_argument_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_example_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_example_cc-Debug-6aa9bea7a11889223bae.json",
+					"name" : "unique_pointer_example_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_init_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_init_cc-Debug-a8d30e25727eab1c09ef.json",
+					"name" : "unique_pointer_init_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_operations_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_operations_cc-Debug-27ec2e8d81b9617941ab.json",
+					"name" : "unique_pointer_operations_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_return2_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_return2_cc-Debug-29e341ab28fef8745db8.json",
+					"name" : "unique_pointer_return2_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointer_return_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointer_return_cc-Debug-0223ee4e5672684f8740.json",
+					"name" : "unique_pointer_return_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointers_and_custom_deleters_network_corrected_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointers_and_custom_deleters_network_corrected_cc-Debug-7b10dd0f26c9a5133e84.json",
+					"name" : "unique_pointers_and_custom_deleters_network_corrected_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_pointers_and_custom_deleters_network_wrong_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_pointers_and_custom_deleters_network_wrong_cc-Debug-b172302d07d420a161c1.json",
+					"name" : "unique_pointers_and_custom_deleters_network_wrong_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unordered_associative_containers_bucket_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unordered_associative_containers_bucket_cc-Debug-475f77504c70fcb4349b.json",
+					"name" : "unordered_associative_containers_bucket_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unordered_associative_containers_bucket_find_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unordered_associative_containers_bucket_find_cc-Debug-10f7f3e504b9e19968df.json",
+					"name" : "unordered_associative_containers_bucket_find_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unordered_associative_containers_continued_sorted_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unordered_associative_containers_continued_sorted_cc-Debug-e97b49e7596df9bafae9.json",
+					"name" : "unordered_associative_containers_continued_sorted_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unordered_associative_containers_unordered_map_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unordered_associative_containers_unordered_map_cc-Debug-9e9cce2964935de02871.json",
+					"name" : "unordered_associative_containers_unordered_map_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "using_special_member_functions_in_cpp11_copy_only_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-using_special_member_functions_in_cpp11_copy_only_cc-Debug-5e47105f6b0f4dcf18a8.json",
+					"name" : "using_special_member_functions_in_cpp11_copy_only_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "using_special_member_functions_in_cpp11_immoveable_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-using_special_member_functions_in_cpp11_immoveable_cc-Debug-96bf1238c6c8b50caa3b.json",
+					"name" : "using_special_member_functions_in_cpp11_immoveable_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variadic_templates_recursion_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variadic_templates_recursion_cc-Debug-f9705f63e6df50d22725.json",
+					"name" : "variadic_templates_recursion_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variadic_templates_sizeof_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variadic_templates_sizeof_cc-Debug-4111f614466b5b3c9a72.json",
+					"name" : "variadic_templates_sizeof_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variadic_templates_tuple_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variadic_templates_tuple_cc-Debug-d0b6b7facfd03bcca1df.json",
+					"name" : "variadic_templates_tuple_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_destructor_destructor_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_destructor_destructor_cc-Debug-2cf903e242a026968805.json",
+					"name" : "virtual_destructor_destructor_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_functions_function_arg_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_functions_function_arg_cc-Debug-c395b565c2ee11732196.json",
+					"name" : "virtual_functions_function_arg_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_functions_function_arg_extended_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_functions_function_arg_extended_cc-Debug-bb8dfd483e159b680b83.json",
+					"name" : "virtual_functions_function_arg_extended_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_functions_in_cpp11_final_class_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_functions_in_cpp11_final_class_cc-Debug-1891f1558a37c2d198dd.json",
+					"name" : "virtual_functions_in_cpp11_final_class_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_functions_in_cpp11_final_member_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_functions_in_cpp11_final_member_cc-Debug-9d0737855ee88c657218.json",
+					"name" : "virtual_functions_in_cpp11_final_member_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_functions_in_cpp11_override_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_functions_in_cpp11_override_cc-Debug-641fdd2c895741f7d83c.json",
+					"name" : "virtual_functions_in_cpp11_override_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_inheritance_non_virtual_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_inheritance_non_virtual_cc-Debug-cda4c4bccb10c2cd53d2.json",
+					"name" : "virtual_inheritance_non_virtual_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_inheritance_virtual_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_inheritance_virtual_cc-Debug-665b1e5f146dcde1b2a4.json",
+					"name" : "virtual_inheritance_virtual_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weak_pointer_alias_dangle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weak_pointer_alias_dangle_cc-Debug-25c11db9eee18fd770fa.json",
+					"name" : "weak_pointer_alias_dangle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weak_pointer_alias_safe_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weak_pointer_alias_safe_cc-Debug-853eeb733319fac2bd69.json",
+					"name" : "weak_pointer_alias_safe_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weak_pointer_queue_dangle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weak_pointer_queue_dangle_cc-Debug-bee7f176813453a4c842.json",
+					"name" : "weak_pointer_queue_dangle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weak_pointer_queue_safe_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weak_pointer_queue_safe_cc-Debug-26320acc025904ed7d5e.json",
+					"name" : "weak_pointer_queue_safe_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weak_ptr_and_cycle_prevention_cycle_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weak_ptr_and_cycle_prevention_cycle_cc-Debug-8a9bdbabea0e9d6ccd02.json",
+					"name" : "weak_ptr_and_cycle_prevention_cycle_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_algorithms_replace_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_algorithms_replace_cc-Debug-51db9c0e3ffd032bc556.json",
+					"name" : "write_algorithms_replace_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_algorithms_replace_copy_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_algorithms_replace_copy_cc-Debug-687111250f1f032f799c.json",
+					"name" : "write_algorithms_replace_copy_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_algorithms_replace_copy_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_algorithms_replace_copy_if_cc-Debug-8a6f1555c43b86c3c59f.json",
+					"name" : "write_algorithms_replace_copy_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_algorithms_replace_if_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_algorithms_replace_if_cc-Debug-d58993b9778d1b89bc49.json",
+					"name" : "write_algorithms_replace_if_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_fill_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_fill_cc-Debug-33261d0bcb171e73cf76.json",
+					"name" : "write_only_algorithms_fill_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_fill_n_bug_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_fill_n_bug_cc-Debug-802aec6abc5b04480f7a.json",
+					"name" : "write_only_algorithms_fill_n_bug_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_fill_n_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_fill_n_cc-Debug-3607a7660f0932b4c87b.json",
+					"name" : "write_only_algorithms_fill_n_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_fill_n_no_bug_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_fill_n_no_bug_cc-Debug-55640e616288cf3f2e8a.json",
+					"name" : "write_only_algorithms_fill_n_no_bug_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_fill_n_no_bug_inserter_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_fill_n_no_bug_inserter_cc-Debug-75b0a080132e5a244727.json",
+					"name" : "write_only_algorithms_fill_n_no_bug_inserter_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_generate_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_generate_cc-Debug-7ae1f98aec41f2d28f21.json",
+					"name" : "write_only_algorithms_generate_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "write_only_algorithms_generate_n_cc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-write_only_algorithms_generate_n_cc-Debug-caa33f084c505f1d7701.json",
+					"name" : "write_only_algorithms_generate_n_cc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Learn-Modern-Advanced-Cpp/out/build/x64-Debug",
+		"source" : "F:/Learn-Modern-Advanced-Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

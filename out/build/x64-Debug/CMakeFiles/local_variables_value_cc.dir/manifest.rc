@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "F:/Learn-Modern-Advanced-Cpp/out/build/x64-Debug/CMakeFiles/local_variables_value_cc.dir/embed.manifest"
